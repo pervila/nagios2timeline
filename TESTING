@@ -1,0 +1,33 @@
+TESTING document for Nagios2Timeline
+====================================
+
+Unit testing
+============
+
+Some rudimentary unit testing has been sketched in the
+``test_Nagios2Timeline.py'' module. Unfortunately, the methods designed for
+the program module itself lend themselves somewhat poorly to unit testing.
+Further tests could be written as the development progresses.
+
+Instead of more thorough unit testing, the Nagios2Timeline module has been put
+to a rather extensive Integration (Systems) test.
+
+
+Integration testing
+===================
+
+Nagios2Timeline.py has been put to a very realistic test by letting it
+operate on a total size of 82 MB worth of Nagios logs collected by the CS
+Department's sentinel services. The tool is able to parse through the complete
+archive in about 35 seconds, which is an acceptable benchmark for a high-level
+systems tool.
+
+During operation, warnings are issued whenever host or service recoveries
+with no corresponding previous malfunctions are encountered. However, these
+warnings are results from changes to the underlying Nagios sentinel service, 
+and therefore not faults of the Nagios2Timeline program. The program can
+silently discard any such warnings or print them to the user in verbose mode.
+
+Each of the command line parameters have been run and the outputs verified.
+Some bugs were discovered in the final stages through this method. They have
+been documented in the README file.

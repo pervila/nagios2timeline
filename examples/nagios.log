@@ -1,0 +1,823 @@
+[1256767200] LOG ROTATION: DAILY
+[1256767200] LOG VERSION: 2.0
+[1256767200] CURRENT HOST STATE: alkokrunni.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1256767200] CURRENT HOST STATE: ammesaari.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1256767200] CURRENT HOST STATE: asennuskytkin.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.94 ms
+[1256767200] CURRENT HOST STATE: barkargrund-16.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1256767200] CURRENT HOST STATE: bewell.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.93 ms
+[1256767200] CURRENT HOST STATE: bodbacka.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1256767200] CURRENT HOST STATE: cam-2.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.85 ms
+[1256767200] CURRENT HOST STATE: cam-3.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1256767200] CURRENT HOST STATE: cam-5.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.90 ms
+[1256767200] CURRENT HOST STATE: chuck-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.19 ms
+[1256767200] CURRENT HOST STATE: chuck.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.92 ms
+[1256767200] CURRENT HOST STATE: courier-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.35 ms
+[1256767200] CURRENT HOST STATE: courier.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.35 ms
+[1256767200] CURRENT HOST STATE: cs-a208.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.21 ms
+[1256767200] CURRENT HOST STATE: cs-c226.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1256767200] CURRENT HOST STATE: dave-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.41 ms
+[1256767200] CURRENT HOST STATE: dave.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1256767200] CURRENT HOST STATE: fs-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.42 ms
+[1256767200] CURRENT HOST STATE: goofy-4.cs.helsinki.fi;DOWN;HARD;5;CRITICAL - Host Unreachable (128.214.11.134)
+[1256767200] CURRENT HOST STATE: hallikari.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.35 ms
+[1256767200] CURRENT HOST STATE: harjasaari.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.69 ms
+[1256767200] CURRENT HOST STATE: hydra-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.49 ms
+[1256767200] CURRENT HOST STATE: kalliolampi-1.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.37 ms
+[1256767200] CURRENT HOST STATE: kiilinkari.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1256767200] CURRENT HOST STATE: korkeakupu.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.38 ms
+[1256767200] CURRENT HOST STATE: koukkusaari.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1256767200] CURRENT HOST STATE: lc2-1.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1256767200] CURRENT HOST STATE: lc2-10.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.37 ms
+[1256767200] CURRENT HOST STATE: lc2-2.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1256767200] CURRENT HOST STATE: lc2-3.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1256767200] CURRENT HOST STATE: lc2-4.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1256767200] CURRENT HOST STATE: lc2-5.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.35 ms
+[1256767200] CURRENT HOST STATE: lc2-6.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.37 ms
+[1256767200] CURRENT HOST STATE: lc2-7.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1256767200] CURRENT HOST STATE: lc2-8.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1256767200] CURRENT HOST STATE: lc2-9.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.88 ms
+[1256767200] CURRENT HOST STATE: lc2-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 59.55 ms
+[1256767200] CURRENT HOST STATE: melkinkari.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1256767200] CURRENT HOST STATE: melkinpaasi.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.93 ms
+[1256767200] CURRENT HOST STATE: melkki.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 12.09 ms
+[1256767200] CURRENT HOST STATE: nurmisaari.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.37 ms
+[1256767200] CURRENT HOST STATE: oap-1.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.18 ms
+[1256767200] CURRENT HOST STATE: oap-10.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.11 ms
+[1256767200] CURRENT HOST STATE: oap-11.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.96 ms
+[1256767200] CURRENT HOST STATE: oap-12.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.05 ms
+[1256767200] CURRENT HOST STATE: oap-13.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.88 ms
+[1256767200] CURRENT HOST STATE: oap-14.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.01 ms
+[1256767200] CURRENT HOST STATE: oap-15.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.13 ms
+[1256767200] CURRENT HOST STATE: oap-16.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.88 ms
+[1256767200] CURRENT HOST STATE: oap-17.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.56 ms
+[1256767200] CURRENT HOST STATE: oap-18.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.97 ms
+[1256767200] CURRENT HOST STATE: oap-19.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.16 ms
+[1256767200] CURRENT HOST STATE: oap-2.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.11 ms
+[1256767200] CURRENT HOST STATE: oap-20.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.05 ms
+[1256767200] CURRENT HOST STATE: oap-21.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.23 ms
+[1256767200] CURRENT HOST STATE: oap-22.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.88 ms
+[1256767200] CURRENT HOST STATE: oap-23.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.08 ms
+[1256767200] CURRENT HOST STATE: oap-24.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.08 ms
+[1256767200] CURRENT HOST STATE: oap-25.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.90 ms
+[1256767200] CURRENT HOST STATE: oap-26.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.07 ms
+[1256767200] CURRENT HOST STATE: oap-27.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.90 ms
+[1256767200] CURRENT HOST STATE: oap-28.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.89 ms
+[1256767200] CURRENT HOST STATE: oap-29.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.13 ms
+[1256767200] CURRENT HOST STATE: oap-3.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.90 ms
+[1256767200] CURRENT HOST STATE: oap-30.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.07 ms
+[1256767200] CURRENT HOST STATE: oap-31.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.91 ms
+[1256767200] CURRENT HOST STATE: oap-32.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.10 ms
+[1256767200] CURRENT HOST STATE: oap-33.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.03 ms
+[1256767200] CURRENT HOST STATE: oap-35.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.94 ms
+[1256767200] CURRENT HOST STATE: oap-36.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.04 ms
+[1256767200] CURRENT HOST STATE: oap-37.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.88 ms
+[1256767200] CURRENT HOST STATE: oap-38.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.61 ms
+[1256767200] CURRENT HOST STATE: oap-39.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.94 ms
+[1256767200] CURRENT HOST STATE: oap-4.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 16%, RTA = 0.99 ms
+[1256767200] CURRENT HOST STATE: oap-42.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.69 ms
+[1256767200] CURRENT HOST STATE: oap-5.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.06 ms
+[1256767200] CURRENT HOST STATE: oap-6.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.22 ms
+[1256767200] CURRENT HOST STATE: oap-7.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.16 ms
+[1256767200] CURRENT HOST STATE: oap-8.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.10 ms
+[1256767200] CURRENT HOST STATE: oap-9.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.54 ms
+[1256767200] CURRENT HOST STATE: other-fs.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1256767200] CURRENT HOST STATE: pehesaari-10.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1256767200] CURRENT HOST STATE: pehesaari-13.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.41 ms
+[1256767200] CURRENT HOST STATE: piuparts-ilo.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.77 ms
+[1256767200] CURRENT HOST STATE: quality-en.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1256767200] CURRENT HOST STATE: router-10.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1256767200] CURRENT HOST STATE: router-11.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1256767200] CURRENT HOST STATE: router-48.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.06 ms
+[1256767200] CURRENT HOST STATE: router-9.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.02 ms
+[1256767200] CURRENT HOST STATE: sbz-1.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.51 ms
+[1256767200] CURRENT HOST STATE: sbz-11.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1256767200] CURRENT HOST STATE: sbz-17.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.42 ms
+[1256767200] CURRENT HOST STATE: sbz-3.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.35 ms
+[1256767200] CURRENT HOST STATE: sbz-35.cs.helsinki.fi;DOWN;HARD;5;CRITICAL - Host Unreachable (128.214.9.104)
+[1256767200] CURRENT HOST STATE: sbz-5.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1256767200] CURRENT HOST STATE: sbz-6.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.14 ms
+[1256767200] CURRENT HOST STATE: schengen-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1256767200] CURRENT HOST STATE: schengen.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.81 ms
+[1256767200] CURRENT HOST STATE: scrooge-5.cs.helsinki.fi;DOWN;HARD;5;CRITICAL - Host Unreachable (128.214.48.205)
+[1256767200] CURRENT HOST STATE: scrooge-9.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.69 ms
+[1256767200] CURRENT HOST STATE: sdx-0-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1256767200] CURRENT HOST STATE: sdx-0.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.34 ms
+[1256767200] CURRENT HOST STATE: sdx-1-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.41 ms
+[1256767200] CURRENT HOST STATE: sdx-1.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.60 ms
+[1256767200] CURRENT HOST STATE: sdx-2-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1256767200] CURRENT HOST STATE: sdx-2.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.34 ms
+[1256767200] CURRENT HOST STATE: sdx-3-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.76 ms
+[1256767200] CURRENT HOST STATE: sdx-3.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.36 ms
+[1256767200] CURRENT HOST STATE: ser-1-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1256767200] CURRENT HOST STATE: ser-1.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1256767200] CURRENT HOST STATE: six-3.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.37 ms
+[1256767200] CURRENT HOST STATE: six-4.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1256767200] CURRENT HOST STATE: six-5.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.55 ms
+[1256767200] CURRENT HOST STATE: six-7.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1256767200] CURRENT HOST STATE: sp9-1-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.85 ms
+[1256767200] CURRENT HOST STATE: sp9-1.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1256767200] CURRENT HOST STATE: sp9-2-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.36 ms
+[1256767200] CURRENT HOST STATE: sp9-2.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1256767200] CURRENT HOST STATE: sp9-3-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.63 ms
+[1256767200] CURRENT HOST STATE: sp9-4-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.41 ms
+[1256767200] CURRENT HOST STATE: sp9-5-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1256767200] CURRENT HOST STATE: sp9-5.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1256767200] CURRENT HOST STATE: spe-0.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1256767200] CURRENT HOST STATE: spe-2-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.17 ms
+[1256767200] CURRENT HOST STATE: spe-2.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.43 ms
+[1256767200] CURRENT HOST STATE: sr3-1-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.36 ms
+[1256767200] CURRENT HOST STATE: sr3-1.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1256767200] CURRENT HOST STATE: sr3-2-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1256767200] CURRENT HOST STATE: sr3-2.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 4.01 ms
+[1256767200] CURRENT HOST STATE: sr3-3-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1256767200] CURRENT HOST STATE: sr3-4-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.42 ms
+[1256767200] CURRENT HOST STATE: sr3-5-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.37 ms
+[1256767200] CURRENT HOST STATE: sr3-6-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1256767200] CURRENT HOST STATE: sr3-7-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1256767200] CURRENT HOST STATE: sr3-7.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1256767200] CURRENT HOST STATE: sr3-9-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1256767200] CURRENT HOST STATE: sr3-9.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.37 ms
+[1256767200] CURRENT HOST STATE: svm-1.cs.helsinki.fi;DOWN;HARD;5;CRITICAL - Host Unreachable (128.214.11.41)
+[1256767200] CURRENT HOST STATE: svm-10.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1256767200] CURRENT HOST STATE: svm-11.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.69 ms
+[1256767200] CURRENT HOST STATE: svm-2.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.38 ms
+[1256767200] CURRENT HOST STATE: svm-5.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1256767200] CURRENT HOST STATE: svm-6.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.43 ms
+[1256767200] CURRENT HOST STATE: switch-e.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.09 ms
+[1256767200] CURRENT HOST STATE: vera-drac.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.98 ms
+[1256767200] CURRENT HOST STATE: vera.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.37 ms
+[1256767200] CURRENT HOST STATE: vpn-1.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.69 ms
+[1256767200] CURRENT HOST STATE: www-nomadic.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.38 ms
+[1256767200] CURRENT HOST STATE: www.cs.helsinki.fi;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.36 ms
+[1256767200] CURRENT SERVICE STATE: alkokrunni.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 1377 bytes in 0,002 seconds
+[1256767200] CURRENT SERVICE STATE: alkokrunni.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 1377 bytes in 0,090 seconds
+[1256767200] CURRENT SERVICE STATE: alkokrunni.cs.helsinki.fi;PHP;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 278 bytes in 0,092 seconds
+[1256767200] CURRENT SERVICE STATE: alkokrunni.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.7 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: alkokrunni.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: alkokrunni.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: ammesaari.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: ammesaari.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: ammesaari.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: asennuskytkin.cs.helsinki.fi;Telnet;OK;HARD;1;TCP OK - 0,001 second response time on port 23
+[1256767200] CURRENT SERVICE STATE: barkargrund-16.cs.helsinki.fi;SSH;CRITICAL;HARD;3;No route to host
+[1256767200] CURRENT SERVICE STATE: barkargrund-16.cs.helsinki.fi;X11-tcp-6000;CRITICAL;HARD;3;No route to host
+[1256767200] CURRENT SERVICE STATE: barkargrund-16.cs.helsinki.fi;rpcbind-tcp;CRITICAL;HARD;3;CRITICAL: RPC program portmapper  tcp is not running
+[1256767200] CURRENT SERVICE STATE: barkargrund-16.cs.helsinki.fi;rpcbind-udp;CRITICAL;HARD;3;CRITICAL: RPC program portmapper  udp is not running
+[1256767200] CURRENT SERVICE STATE: bewell.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,005 second response time
+[1256767200] CURRENT SERVICE STATE: bewell.cs.helsinki.fi;NFS;OK;HARD;1;OK: RPC program nfs version 2 version 3 version 4 udp running
+[1256767200] CURRENT SERVICE STATE: bewell.cs.helsinki.fi;NFS lock manager;OK;HARD;1;OK: RPC program nlockmgr version 1 version 3 version 4 udp running
+[1256767200] CURRENT SERVICE STATE: bewell.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.5 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: bewell.cs.helsinki.fi;mysql-tcp-3306;OK;HARD;1;TCP OK - 0,001 second response time on port 3306
+[1256767200] CURRENT SERVICE STATE: bewell.cs.helsinki.fi;remoteanything-tcp-4000;OK;HARD;1;TCP OK - 0,000 second response time on port 4000
+[1256767200] CURRENT SERVICE STATE: bewell.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: bewell.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: bodbacka.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_3.9p1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: bodbacka.cs.helsinki.fi;oracle-tns-tcp-1521;OK;HARD;1;TCP OK - 0,000 second response time on port 1521
+[1256767200] CURRENT SERVICE STATE: cam-2.cs.helsinki.fi;FTP;OK;HARD;1;FTP OK - 0,009 second response time on port 21 [220 AXIS 205 Network Camera version 4.05 (Sep 27 2004) ready.]
+[1256767200] CURRENT SERVICE STATE: cam-2.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK HTTP/1.0 200 OK - 622 bytes in 0,077 seconds
+[1256767200] CURRENT SERVICE STATE: cam-3.cs.helsinki.fi;FTP;OK;HARD;1;FTP OK - 0,009 second response time on port 21 [220 AXIS 205 Network Camera version 4.05 (Sep 27 2004) ready.]
+[1256767200] CURRENT SERVICE STATE: cam-3.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK HTTP/1.0 200 OK - 622 bytes in 0,097 seconds
+[1256767200] CURRENT SERVICE STATE: cam-5.cs.helsinki.fi;FTP;OK;HARD;1;FTP OK - 0,029 second response time on port 21 [220 AXIS 207W Network Camera 4.40 (Sep 15 2006) ready.]
+[1256767200] CURRENT SERVICE STATE: cam-5.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK HTTP/1.0 200 OK - 850 bytes in 0,043 seconds
+[1256767200] CURRENT SERVICE STATE: cam-5.cs.helsinki.fi;rtsp-tcp-554;OK;HARD;1;TCP OK - 0,003 second response time on port 554
+[1256767200] CURRENT SERVICE STATE: chuck-drac.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 1425 bytes in 0,181 seconds
+[1256767200] CURRENT SERVICE STATE: chuck-drac.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 10629 bytes in 5,504 seconds
+[1256767200] CURRENT SERVICE STATE: chuck-drac.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - Mocana SSH (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: chuck-drac.cs.helsinki.fi;vnc-tcp-5900;OK;HARD;1;TCP OK - 0,003 second response time on port 5900
+[1256767200] CURRENT SERVICE STATE: chuck.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_5.1p1 Debian-3ubuntu1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: chuck.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: chuck.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: courier-drac.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,003 second response time
+[1256767200] CURRENT SERVICE STATE: courier-drac.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 688 bytes in 0,484 seconds
+[1256767200] CURRENT SERVICE STATE: courier-drac.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_3.9p1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: courier-drac.cs.helsinki.fi;vnc-1-tcp-5901;OK;HARD;1;TCP OK - 0,000 second response time on port 5901
+[1256767200] CURRENT SERVICE STATE: courier-drac.cs.helsinki.fi;vnc-tcp-5900;OK;HARD;1;TCP OK - 0,001 second response time on port 5900
+[1256767200] CURRENT SERVICE STATE: courier.cs.helsinki.fi;DNS tcp;OK;HARD;1;TCP OK - 0,000 second response time on port 53
+[1256767200] CURRENT SERVICE STATE: courier.cs.helsinki.fi;DNS udp;OK;HARD;1;DNS OK: 0,007 seconds response time. kirsta.cs.helsinki.fi returns 128.214.9.167
+[1256767200] CURRENT SERVICE STATE: courier.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,002 second response time
+[1256767200] CURRENT SERVICE STATE: courier.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,079 second response time
+[1256767200] CURRENT SERVICE STATE: courier.cs.helsinki.fi;HTTPS_CA;OK;HARD;1;SSL CERT OK - X.509 certificate for mail.cs.helsinki.fi from University of Helsinki/emailAddress=root@cs.helsinki.fi valid until Jan 31 08:14:38 2010 GMT
+[1256767200] CURRENT SERVICE STATE: courier.cs.helsinki.fi;IMAP;OK;HARD;1;IMAP OK - 0,004 second response time on port 143 [* OK [CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION STARTTLS LOGINDISABLED XMAGICTRASH] Courier-IMAP ready. Copyright 1998-2005 Double Precision, Inc.  See COPYING for distribution information.]
+[1256767200] CURRENT SERVICE STATE: courier.cs.helsinki.fi;IMAP+SSL;OK;HARD;1;IMAP OK - 0,085 second response time on port 993 [* OK [CAPABILITY IMAP4rev1 NAMESPACE AUTH=PLAIN CHILDREN IDLE SORT THREAD=ORDEREDSUBJECT THREAD=REFERENCES ACL ACL2=UNION XMAGICTRASH] Courier-IMAP ready. Copyright 1998-2005 Double Precision, Inc.  See COPYING for distribution information.]
+[1256767200] CURRENT SERVICE STATE: courier.cs.helsinki.fi;SMTP;OK;HARD;1;SMTP OK - 0,122 sec. response time
+[1256767200] CURRENT SERVICE STATE: courier.cs.helsinki.fi;SMTP+SSL;OK;HARD;1;SMTP OK - 0,109 sec. response time
+[1256767200] CURRENT SERVICE STATE: courier.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: courier.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: courier.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: cs-a208.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 13190 bytes in 0,019 seconds
+[1256767200] CURRENT SERVICE STATE: cs-a208.cs.helsinki.fi;ipp-tcp-631;OK;HARD;1;TCP OK - 0,000 second response time on port 631
+[1256767200] CURRENT SERVICE STATE: cs-a208.cs.helsinki.fi;jetdirect-tcp-9100;OK;HARD;1;TCP OK - 0,000 second response time on port 9100
+[1256767200] CURRENT SERVICE STATE: cs-a208.cs.helsinki.fi;microsoft-ds-tcp-445;OK;HARD;1;TCP OK - 0,000 second response time on port 445
+[1256767200] CURRENT SERVICE STATE: cs-a208.cs.helsinki.fi;netbios-ssn-tcp-139;OK;HARD;1;TCP OK - 0,000 second response time on port 139
+[1256767200] CURRENT SERVICE STATE: cs-a208.cs.helsinki.fi;printer-tcp-515;OK;HARD;1;TCP OK - 0,000 second response time on port 515
+[1256767200] CURRENT SERVICE STATE: dave-drac.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,003 second response time
+[1256767200] CURRENT SERVICE STATE: dave-drac.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 688 bytes in 0,530 seconds
+[1256767200] CURRENT SERVICE STATE: dave-drac.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_3.9p1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: dave-drac.cs.helsinki.fi;vnc-1-tcp-5901;OK;HARD;1;TCP OK - 0,000 second response time on port 5901
+[1256767200] CURRENT SERVICE STATE: dave-drac.cs.helsinki.fi;vnc-tcp-5900;OK;HARD;1;TCP OK - 0,000 second response time on port 5900
+[1256767200] CURRENT SERVICE STATE: dave.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.7p1 Debian-8ubuntu1.2 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: dave.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: dave.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: fs-drac.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 1425 bytes in 0,190 seconds
+[1256767200] CURRENT SERVICE STATE: fs-drac.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 10630 bytes in 5,361 seconds
+[1256767200] CURRENT SERVICE STATE: fs-drac.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - Mocana SSH (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: fs-drac.cs.helsinki.fi;vnc-tcp-5900;OK;HARD;1;TCP OK - 0,004 second response time on port 5900
+[1256767200] CURRENT SERVICE STATE: goofy-4.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: goofy-4.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: goofy-4.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: hallikari.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 332 bytes in 0,001 seconds
+[1256767200] CURRENT SERVICE STATE: hallikari.cs.helsinki.fi;NFS;OK;HARD;1;OK: RPC program nfs version 2 version 3 version 4 udp running
+[1256767200] CURRENT SERVICE STATE: hallikari.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.7 (protocol 1.99)
+[1256767200] CURRENT SERVICE STATE: hallikari.cs.helsinki.fi;X11-tcp-6000;CRITICAL;HARD;3;Connection refused
+[1256767200] CURRENT SERVICE STATE: hallikari.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: hallikari.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: harjasaari.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,002 second response time
+[1256767200] CURRENT SERVICE STATE: harjasaari.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,120 second response time
+[1256767200] CURRENT SERVICE STATE: harjasaari.cs.helsinki.fi;HTTPS_CA;OK;HARD;1;SSL CERT OK - X.509 certificate for ilmo.cs.helsinki.fi from University of Helsinki/emailAddress=root@cs.helsinki.fi valid until Jan 31 11:44:47 2010 GMT
+[1256767200] CURRENT SERVICE STATE: harjasaari.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: harjasaari.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: harjasaari.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: hydra-drac.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 1425 bytes in 0,179 seconds
+[1256767200] CURRENT SERVICE STATE: hydra-drac.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 10628 bytes in 5,240 seconds
+[1256767200] CURRENT SERVICE STATE: hydra-drac.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - Mocana SSH (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: hydra-drac.cs.helsinki.fi;vnc-tcp-5900;OK;HARD;1;TCP OK - 0,003 second response time on port 5900
+[1256767200] CURRENT SERVICE STATE: kalliolampi-1.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: kalliolampi-1.cs.helsinki.fi;netbios-ssn-tcp-139;OK;HARD;1;TCP OK - 0,002 second response time on port 139
+[1256767200] CURRENT SERVICE STATE: kalliolampi-1.cs.helsinki.fi;netbios-ssn-tcp-445;OK;HARD;1;TCP OK - 0,000 second response time on port 445
+[1256767200] CURRENT SERVICE STATE: kalliolampi-1.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: kalliolampi-1.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: kiilinkari.cs.helsinki.fi;DNS tcp;OK;HARD;1;TCP OK - 0,002 second response time on port 53
+[1256767200] CURRENT SERVICE STATE: kiilinkari.cs.helsinki.fi;DNS udp;OK;HARD;1;DNS OK: 0,004 seconds response time. kirsta.cs.helsinki.fi returns 128.214.9.167
+[1256767200] CURRENT SERVICE STATE: kiilinkari.cs.helsinki.fi;LDAP_CA;CRITICAL;HARD;3;SSL CERT CRITICAL : No certificate returned
+[1256767200] CURRENT SERVICE STATE: kiilinkari.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: kiilinkari.cs.helsinki.fi;ldap-tcp-389;CRITICAL;HARD;3;Connection refused
+[1256767200] CURRENT SERVICE STATE: kiilinkari.cs.helsinki.fi;ldap-tcp-636;CRITICAL;HARD;3;Connection refused
+[1256767200] CURRENT SERVICE STATE: kiilinkari.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: kiilinkari.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: korkeakupu.cs.helsinki.fi;DNS tcp;OK;HARD;1;TCP OK - 0,000 second response time on port 53
+[1256767200] CURRENT SERVICE STATE: korkeakupu.cs.helsinki.fi;DNS udp;OK;HARD;1;DNS OK: 0,013 seconds response time. kirsta.cs.helsinki.fi returns 128.214.9.167
+[1256767200] CURRENT SERVICE STATE: korkeakupu.cs.helsinki.fi;NFS;OK;HARD;1;OK: RPC program nfs version 2 version 3 version 4 udp running
+[1256767200] CURRENT SERVICE STATE: korkeakupu.cs.helsinki.fi;NFS lock manager;OK;HARD;1;OK: RPC program nlockmgr version 1 version 3 version 4 udp running
+[1256767200] CURRENT SERVICE STATE: korkeakupu.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: korkeakupu.cs.helsinki.fi;ftps-tcp-990;CRITICAL;HARD;3;Connection refused
+[1256767200] CURRENT SERVICE STATE: korkeakupu.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: korkeakupu.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: koukkusaari.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 1506 bytes in 0,003 seconds
+[1256767200] CURRENT SERVICE STATE: koukkusaari.cs.helsinki.fi;RDP;OK;HARD;1;TCP OK - 0,000 second response time on port 3389
+[1256767200] CURRENT SERVICE STATE: koukkusaari.cs.helsinki.fi;microsoft-ds-tcp-445;OK;HARD;1;TCP OK - 0,000 second response time on port 445
+[1256767200] CURRENT SERVICE STATE: koukkusaari.cs.helsinki.fi;ms-lsa-tcp-1029;OK;HARD;1;TCP OK - 0,000 second response time on port 1029
+[1256767200] CURRENT SERVICE STATE: koukkusaari.cs.helsinki.fi;msrpc-tcp-135;OK;HARD;1;TCP OK - 0,003 second response time on port 135
+[1256767200] CURRENT SERVICE STATE: koukkusaari.cs.helsinki.fi;netbios-ssn-tcp-139;OK;HARD;1;TCP OK - 0,000 second response time on port 139
+[1256767200] CURRENT SERVICE STATE: lc2-1.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_5.1p1 Debian-3ubuntu1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: lc2-1.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: lc2-1.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: lc2-10.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_5.1p1 Debian-3ubuntu1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: lc2-10.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: lc2-10.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: lc2-2.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_5.1p1 Debian-3ubuntu1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: lc2-2.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: lc2-2.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: lc2-3.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_5.1p1 Debian-3ubuntu1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: lc2-3.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: lc2-3.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: lc2-4.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_5.1p1 Debian-3ubuntu1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: lc2-4.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: lc2-4.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: lc2-5.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_5.1p1 Debian-3ubuntu1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: lc2-5.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: lc2-5.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: lc2-6.cs.helsinki.fi;SSH;CRITICAL;HARD;3;CRITICAL - Socket timeout after 10 seconds
+[1256767200] CURRENT SERVICE STATE: lc2-6.cs.helsinki.fi;rpcbind-tcp;UNKNOWN;HARD;3;ERROR: No response from RPC server (alarm)
+[1256767200] CURRENT SERVICE STATE: lc2-6.cs.helsinki.fi;rpcbind-udp;UNKNOWN;HARD;3;ERROR: No response from RPC server (alarm)
+[1256767200] CURRENT SERVICE STATE: lc2-7.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_5.1p1 Debian-3ubuntu1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: lc2-7.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: lc2-7.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: lc2-8.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_5.1p1 Debian-3ubuntu1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: lc2-8.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: lc2-8.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: lc2-9.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_5.1p1 Debian-3ubuntu1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: lc2-9.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: lc2-9.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: melkinkari.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: melkinkari.cs.helsinki.fi;chargen-tcp-19;OK;HARD;1;TCP OK - 0,013 second response time on port 19
+[1256767200] CURRENT SERVICE STATE: melkinkari.cs.helsinki.fi;daytime-tcp-13;OK;HARD;1;TCP OK - 0,001 second response time on port 13
+[1256767200] CURRENT SERVICE STATE: melkinkari.cs.helsinki.fi;discard-tcp-9;OK;HARD;1;TCP OK - 0,000 second response time on port 9
+[1256767200] CURRENT SERVICE STATE: melkinkari.cs.helsinki.fi;echo-tcp-7;OK;HARD;1;TCP OK - 0,001 second response time on port 7
+[1256767200] CURRENT SERVICE STATE: melkinkari.cs.helsinki.fi;ident-tcp-113;OK;HARD;1;TCP OK - 0,000 second response time on port 113
+[1256767200] CURRENT SERVICE STATE: melkinkari.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: melkinkari.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: melkinpaasi.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_5.1p1 Debian-3ubuntu1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: melkinpaasi.cs.helsinki.fi;ident-tcp-113;OK;HARD;1;TCP OK - 0,002 second response time on port 113
+[1256767200] CURRENT SERVICE STATE: melkinpaasi.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: melkinpaasi.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: melkki.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_5.1p1 Debian-3ubuntu1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: melkki.cs.helsinki.fi;ident-tcp-113;OK;HARD;1;TCP OK - 0,001 second response time on port 113
+[1256767200] CURRENT SERVICE STATE: melkki.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: melkki.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: nurmisaari.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: nurmisaari.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: nurmisaari.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: oap-1.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 1
+[1256767200] CURRENT SERVICE STATE: oap-10.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-11.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-12.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-13.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-14.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-15.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-16.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-17.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-18.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-19.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-2.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-20.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-21.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-22.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-23.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-24.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-25.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-26.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-27.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-28.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-29.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-3.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-30.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-31.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-32.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-33.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 1
+[1256767200] CURRENT SERVICE STATE: oap-35.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-36.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-37.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-38.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-39.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-4.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-42.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-5.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-6.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-7.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-8.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: oap-9.cs.helsinki.fi;client_count;OK;HARD;1;SNMP OK - 0
+[1256767200] CURRENT SERVICE STATE: other-fs.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 1685 bytes in 0,134 seconds
+[1256767200] CURRENT SERVICE STATE: pehesaari-10.cs.helsinki.fi;RDP;CRITICAL;HARD;3;Connection refused
+[1256767200] CURRENT SERVICE STATE: pehesaari-10.cs.helsinki.fi;microsoft-ds-tcp-445;CRITICAL;HARD;3;Connection refused
+[1256767200] CURRENT SERVICE STATE: pehesaari-10.cs.helsinki.fi;netbios-ssn-tcp-139;CRITICAL;HARD;3;Connection refused
+[1256767200] CURRENT SERVICE STATE: pehesaari-13.cs.helsinki.fi;HTTP;CRITICAL;HARD;3;No route to host
+[1256767200] CURRENT SERVICE STATE: pehesaari-13.cs.helsinki.fi;HTTPS;CRITICAL;HARD;3;No route to host
+[1256767200] CURRENT SERVICE STATE: pehesaari-13.cs.helsinki.fi;SSH;CRITICAL;HARD;3;No route to host
+[1256767200] CURRENT SERVICE STATE: pehesaari-13.cs.helsinki.fi;rpcbind-tcp;CRITICAL;HARD;3;CRITICAL: RPC program portmapper  tcp is not running
+[1256767200] CURRENT SERVICE STATE: pehesaari-13.cs.helsinki.fi;rpcbind-udp;CRITICAL;HARD;3;CRITICAL: RPC program portmapper  udp is not running
+[1256767200] CURRENT SERVICE STATE: piuparts-ilo.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK HTTP/1.1 200 Ok - 1651 bytes in 0,014 seconds
+[1256767200] CURRENT SERVICE STATE: piuparts-ilo.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 Ok - 1651 bytes in 3,736 seconds
+[1256767200] CURRENT SERVICE STATE: piuparts-ilo.cs.helsinki.fi;unknown-tcp-17988;OK;HARD;1;TCP OK - 0,002 second response time on port 17988
+[1256767200] CURRENT SERVICE STATE: quality-en.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,001 second response time
+[1256767200] CURRENT SERVICE STATE: quality-en.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.4 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: quality-en.cs.helsinki.fi;mysql-tcp-3306;OK;HARD;1;TCP OK - 0,005 second response time on port 3306
+[1256767200] CURRENT SERVICE STATE: router-10.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: router-11.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: router-48.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: router-9.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sbz-1.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sbz-1.cs.helsinki.fi;http-proxy-tcp-3128;OK;HARD;1;TCP OK - 0,000 second response time on port 3128
+[1256767200] CURRENT SERVICE STATE: sbz-1.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: sbz-1.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: sbz-11.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sbz-11.cs.helsinki.fi;netbios-ssn-tcp-139;OK;HARD;1;TCP OK - 0,000 second response time on port 139
+[1256767200] CURRENT SERVICE STATE: sbz-11.cs.helsinki.fi;netbios-ssn-tcp-445;OK;HARD;1;TCP OK - 0,000 second response time on port 445
+[1256767200] CURRENT SERVICE STATE: sbz-11.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: sbz-11.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: sbz-17.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 774 bytes in 0,004 seconds
+[1256767200] CURRENT SERVICE STATE: sbz-17.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 404 Not Found - 455 bytes in 0,086 seconds
+[1256767200] CURRENT SERVICE STATE: sbz-17.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sbz-17.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: sbz-17.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: sbz-17.cs.helsinki.fi;unknown-tcp-10024;OK;HARD;1;TCP OK - 0,000 second response time on port 10024
+[1256767200] CURRENT SERVICE STATE: sbz-3.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sbz-3.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: sbz-3.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: sbz-35.cs.helsinki.fi;SSH;CRITICAL;HARD;1;No route to host
+[1256767200] CURRENT SERVICE STATE: sbz-35.cs.helsinki.fi;rpcbind-tcp;CRITICAL;HARD;1;CRITICAL: RPC program portmapper  tcp is not running
+[1256767200] CURRENT SERVICE STATE: sbz-35.cs.helsinki.fi;rpcbind-udp;CRITICAL;HARD;1;CRITICAL: RPC program portmapper  udp is not running
+[1256767200] CURRENT SERVICE STATE: sbz-5.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sbz-5.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: sbz-5.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: sbz-6.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 1024 bytes in 0,001 seconds
+[1256767200] CURRENT SERVICE STATE: sbz-6.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 1024 bytes in 0,080 seconds
+[1256767200] CURRENT SERVICE STATE: sbz-6.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.2 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sbz-6.cs.helsinki.fi;printer-tcp-515;OK;HARD;1;TCP OK - 0,000 second response time on port 515
+[1256767200] CURRENT SERVICE STATE: sbz-6.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: sbz-6.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: schengen-drac.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,003 second response time
+[1256767200] CURRENT SERVICE STATE: schengen-drac.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 688 bytes in 0,383 seconds
+[1256767200] CURRENT SERVICE STATE: schengen-drac.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_3.9p1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: schengen-drac.cs.helsinki.fi;vnc-1-tcp-5901;OK;HARD;1;TCP OK - 0,000 second response time on port 5901
+[1256767200] CURRENT SERVICE STATE: schengen-drac.cs.helsinki.fi;vnc-tcp-5900;OK;HARD;1;TCP OK - 0,000 second response time on port 5900
+[1256767200] CURRENT SERVICE STATE: schengen.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: scrooge-5.cs.helsinki.fi;SSH;CRITICAL;HARD;3;No route to host
+[1256767200] CURRENT SERVICE STATE: scrooge-5.cs.helsinki.fi;X11-tcp-6000;CRITICAL;HARD;3;No route to host
+[1256767200] CURRENT SERVICE STATE: scrooge-5.cs.helsinki.fi;rpcbind-tcp;CRITICAL;HARD;3;CRITICAL: RPC program portmapper  tcp is not running
+[1256767200] CURRENT SERVICE STATE: scrooge-5.cs.helsinki.fi;rpcbind-udp;CRITICAL;HARD;3;CRITICAL: RPC program portmapper  udp is not running
+[1256767200] CURRENT SERVICE STATE: scrooge-9.cs.helsinki.fi;X11-tcp-6000;OK;HARD;1;TCP OK - 0,000 second response time on port 6000
+[1256767200] CURRENT SERVICE STATE: scrooge-9.cs.helsinki.fi;X11-tcp-6001;OK;HARD;1;TCP OK - 0,000 second response time on port 6001
+[1256767200] CURRENT SERVICE STATE: scrooge-9.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: scrooge-9.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: scrooge-9.cs.helsinki.fi;vnc-http-tcp-5801;OK;HARD;1;TCP OK - 0,000 second response time on port 5801
+[1256767200] CURRENT SERVICE STATE: scrooge-9.cs.helsinki.fi;vnc-tcp-5901;OK;HARD;1;TCP OK - 0,000 second response time on port 5901
+[1256767200] CURRENT SERVICE STATE: sdx-0-drac.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,003 second response time
+[1256767200] CURRENT SERVICE STATE: sdx-0-drac.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 688 bytes in 0,485 seconds
+[1256767200] CURRENT SERVICE STATE: sdx-0-drac.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_3.9p1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sdx-0-drac.cs.helsinki.fi;vnc-1-tcp-5901;OK;HARD;1;TCP OK - 0,000 second response time on port 5901
+[1256767200] CURRENT SERVICE STATE: sdx-0-drac.cs.helsinki.fi;vnc-tcp-5900;OK;HARD;1;TCP OK - 0,001 second response time on port 5900
+[1256767200] CURRENT SERVICE STATE: sdx-0.cs.helsinki.fi;NFS;OK;HARD;1;OK: RPC program nfs version 2 version 3 version 4 udp running
+[1256767200] CURRENT SERVICE STATE: sdx-0.cs.helsinki.fi;NFS lock manager;OK;HARD;1;OK: RPC program nlockmgr version 1 version 3 version 4 udp running
+[1256767200] CURRENT SERVICE STATE: sdx-0.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sdx-0.cs.helsinki.fi;netbios-ssn-tcp-139;OK;HARD;1;TCP OK - 0,000 second response time on port 139
+[1256767200] CURRENT SERVICE STATE: sdx-0.cs.helsinki.fi;netbios-ssn-tcp-445;OK;HARD;1;TCP OK - 0,000 second response time on port 445
+[1256767200] CURRENT SERVICE STATE: sdx-0.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: sdx-0.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: sdx-1-drac.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,003 second response time
+[1256767200] CURRENT SERVICE STATE: sdx-1-drac.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 688 bytes in 0,404 seconds
+[1256767200] CURRENT SERVICE STATE: sdx-1-drac.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_3.9p1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sdx-1-drac.cs.helsinki.fi;vnc-1-tcp-5901;OK;HARD;1;TCP OK - 0,001 second response time on port 5901
+[1256767200] CURRENT SERVICE STATE: sdx-1-drac.cs.helsinki.fi;vnc-tcp-5900;OK;HARD;1;TCP OK - 0,000 second response time on port 5900
+[1256767200] CURRENT SERVICE STATE: sdx-1.cs.helsinki.fi;NFS;OK;HARD;1;OK: RPC program nfs version 2 version 3 version 4 udp running
+[1256767200] CURRENT SERVICE STATE: sdx-1.cs.helsinki.fi;NFS lock manager;OK;HARD;1;OK: RPC program nlockmgr version 1 version 3 version 4 udp running
+[1256767200] CURRENT SERVICE STATE: sdx-1.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sdx-1.cs.helsinki.fi;netbios-ssn-tcp-139;OK;HARD;1;TCP OK - 0,000 second response time on port 139
+[1256767200] CURRENT SERVICE STATE: sdx-1.cs.helsinki.fi;netbios-ssn-tcp-445;OK;HARD;1;TCP OK - 0,000 second response time on port 445
+[1256767200] CURRENT SERVICE STATE: sdx-1.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: sdx-1.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: sdx-2-drac.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,003 second response time
+[1256767200] CURRENT SERVICE STATE: sdx-2-drac.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 688 bytes in 0,427 seconds
+[1256767200] CURRENT SERVICE STATE: sdx-2-drac.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_3.9p1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sdx-2-drac.cs.helsinki.fi;vnc-1-tcp-5901;OK;HARD;1;TCP OK - 0,000 second response time on port 5901
+[1256767200] CURRENT SERVICE STATE: sdx-2-drac.cs.helsinki.fi;vnc-tcp-5900;OK;HARD;1;TCP OK - 0,001 second response time on port 5900
+[1256767200] CURRENT SERVICE STATE: sdx-2.cs.helsinki.fi;NFS;OK;HARD;1;OK: RPC program nfs version 2 version 3 version 4 udp running
+[1256767200] CURRENT SERVICE STATE: sdx-2.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sdx-2.cs.helsinki.fi;netbios-ssn-tcp-139;OK;HARD;1;TCP OK - 0,002 second response time on port 139
+[1256767200] CURRENT SERVICE STATE: sdx-2.cs.helsinki.fi;netbios-ssn-tcp-445;OK;HARD;1;TCP OK - 0,000 second response time on port 445
+[1256767200] CURRENT SERVICE STATE: sdx-2.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: sdx-2.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: sdx-3-drac.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,004 second response time
+[1256767200] CURRENT SERVICE STATE: sdx-3-drac.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 688 bytes in 0,451 seconds
+[1256767200] CURRENT SERVICE STATE: sdx-3-drac.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_3.9p1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sdx-3-drac.cs.helsinki.fi;vnc-1-tcp-5901;OK;HARD;1;TCP OK - 0,000 second response time on port 5901
+[1256767200] CURRENT SERVICE STATE: sdx-3-drac.cs.helsinki.fi;vnc-tcp-5900;OK;HARD;1;TCP OK - 0,000 second response time on port 5900
+[1256767200] CURRENT SERVICE STATE: sdx-3.cs.helsinki.fi;NFS;OK;HARD;1;OK: RPC program nfs version 2 version 3 version 4 udp running
+[1256767200] CURRENT SERVICE STATE: sdx-3.cs.helsinki.fi;NFS lock manager;OK;HARD;1;OK: RPC program nlockmgr version 1 version 3 version 4 udp running
+[1256767200] CURRENT SERVICE STATE: sdx-3.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sdx-3.cs.helsinki.fi;netbios-ssn-tcp-139;OK;HARD;1;TCP OK - 0,000 second response time on port 139
+[1256767200] CURRENT SERVICE STATE: sdx-3.cs.helsinki.fi;netbios-ssn-tcp-445;OK;HARD;1;TCP OK - 0,000 second response time on port 445
+[1256767200] CURRENT SERVICE STATE: sdx-3.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: sdx-3.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: ser-1-drac.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,003 second response time
+[1256767200] CURRENT SERVICE STATE: ser-1-drac.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 688 bytes in 0,451 seconds
+[1256767200] CURRENT SERVICE STATE: ser-1-drac.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_3.9p1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: ser-1-drac.cs.helsinki.fi;vnc-1-tcp-5901;OK;HARD;1;TCP OK - 0,002 second response time on port 5901
+[1256767200] CURRENT SERVICE STATE: ser-1-drac.cs.helsinki.fi;vnc-tcp-5900;OK;HARD;1;TCP OK - 0,001 second response time on port 5900
+[1256767200] CURRENT SERVICE STATE: ser-1.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.6p1 Debian-5build1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: ser-1.cs.helsinki.fi;vmware-auth-tcp-902;OK;HARD;1;TCP OK - 0,000 second response time on port 902
+[1256767200] CURRENT SERVICE STATE: six-3.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 301 Moved Permanently - 0,001 second response time
+[1256767200] CURRENT SERVICE STATE: six-3.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 53904 bytes in 0,402 seconds
+[1256767200] CURRENT SERVICE STATE: six-3.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.5 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: six-3.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: six-3.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: six-4.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: six-4.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: six-4.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: six-4.cs.helsinki.fi;tcpwrapped-tcp-514;OK;HARD;1;TCP OK - 0,000 second response time on port 514
+[1256767200] CURRENT SERVICE STATE: six-5.cs.helsinki.fi;DNS tcp;CRITICAL;HARD;3;CRITICAL - Socket timeout after 10 seconds
+[1256767200] CURRENT SERVICE STATE: six-5.cs.helsinki.fi;DNS udp;CRITICAL;HARD;3;CRITICAL - Plugin timed out while executing system call
+[1256767200] CURRENT SERVICE STATE: six-5.cs.helsinki.fi;RDP;CRITICAL;HARD;3;No route to host
+[1256767200] CURRENT SERVICE STATE: six-5.cs.helsinki.fi;globalcatLDAPssl-tcp-3269;CRITICAL;HARD;3;CRITICAL - Socket timeout after 10 seconds
+[1256767200] CURRENT SERVICE STATE: six-5.cs.helsinki.fi;kerberos-sec-tcp-88;CRITICAL;HARD;3;CRITICAL - Socket timeout after 10 seconds
+[1256767200] CURRENT SERVICE STATE: six-5.cs.helsinki.fi;ldap-tcp-3268;CRITICAL;HARD;3;CRITICAL - Socket timeout after 10 seconds
+[1256767200] CURRENT SERVICE STATE: six-5.cs.helsinki.fi;ldap-tcp-389;CRITICAL;HARD;3;CRITICAL - Socket timeout after 10 seconds
+[1256767200] CURRENT SERVICE STATE: six-5.cs.helsinki.fi;ldap-tcp-636;CRITICAL;HARD;3;No route to host
+[1256767200] CURRENT SERVICE STATE: six-5.cs.helsinki.fi;microsoft-ds-tcp-445;CRITICAL;HARD;3;CRITICAL - Socket timeout after 10 seconds
+[1256767200] CURRENT SERVICE STATE: six-5.cs.helsinki.fi;msrpc-tcp-135;CRITICAL;HARD;3;CRITICAL - Socket timeout after 10 seconds
+[1256767200] CURRENT SERVICE STATE: six-5.cs.helsinki.fi;ncacn_http-tcp-49157;CRITICAL;HARD;3;CRITICAL - Socket timeout after 10 seconds
+[1256767200] CURRENT SERVICE STATE: six-5.cs.helsinki.fi;ncacn_http-tcp-593;CRITICAL;HARD;3;No route to host
+[1256767200] CURRENT SERVICE STATE: six-5.cs.helsinki.fi;netbios-ssn-tcp-139;CRITICAL;HARD;3;No route to host
+[1256767200] CURRENT SERVICE STATE: six-5.cs.helsinki.fi;omniback-tcp-5555;CRITICAL;HARD;3;Connection refused
+[1256767200] CURRENT SERVICE STATE: six-5.cs.helsinki.fi;tcpwrapped-tcp-464;CRITICAL;HARD;3;CRITICAL - Socket timeout after 10 seconds
+[1256767200] CURRENT SERVICE STATE: six-5.cs.helsinki.fi;unknown-tcp-49152;CRITICAL;HARD;3;CRITICAL - Socket timeout after 10 seconds
+[1256767200] CURRENT SERVICE STATE: six-5.cs.helsinki.fi;unknown-tcp-49153;CRITICAL;HARD;3;CRITICAL - Socket timeout after 10 seconds
+[1256767200] CURRENT SERVICE STATE: six-5.cs.helsinki.fi;unknown-tcp-49154;CRITICAL;HARD;3;CRITICAL - Socket timeout after 10 seconds
+[1256767200] CURRENT SERVICE STATE: six-5.cs.helsinki.fi;unknown-tcp-49156;CRITICAL;HARD;3;Connection refused
+[1256767200] CURRENT SERVICE STATE: six-5.cs.helsinki.fi;unknown-tcp-49158;CRITICAL;HARD;3;CRITICAL - Socket timeout after 10 seconds
+[1256767200] CURRENT SERVICE STATE: six-7.cs.helsinki.fi;RDP;OK;HARD;1;TCP OK - 0,000 second response time on port 3389
+[1256767200] CURRENT SERVICE STATE: six-7.cs.helsinki.fi;microsoft-ds-tcp-445;OK;HARD;1;TCP OK - 0,000 second response time on port 445
+[1256767200] CURRENT SERVICE STATE: six-7.cs.helsinki.fi;msrpc-tcp-135;OK;HARD;1;TCP OK - 0,000 second response time on port 135
+[1256767200] CURRENT SERVICE STATE: six-7.cs.helsinki.fi;netbios-ssn-tcp-139;OK;HARD;1;TCP OK - 0,003 second response time on port 139
+[1256767200] CURRENT SERVICE STATE: six-7.cs.helsinki.fi;unknown-tcp-34571;OK;HARD;1;TCP OK - 0,000 second response time on port 34571
+[1256767200] CURRENT SERVICE STATE: six-7.cs.helsinki.fi;unknown-tcp-34572;OK;HARD;1;TCP OK - 0,000 second response time on port 34572
+[1256767200] CURRENT SERVICE STATE: sp9-1-drac.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,004 second response time
+[1256767200] CURRENT SERVICE STATE: sp9-1-drac.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 688 bytes in 0,446 seconds
+[1256767200] CURRENT SERVICE STATE: sp9-1-drac.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_3.9p1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sp9-1-drac.cs.helsinki.fi;vnc-1-tcp-5901;OK;HARD;1;TCP OK - 0,000 second response time on port 5901
+[1256767200] CURRENT SERVICE STATE: sp9-1-drac.cs.helsinki.fi;vnc-tcp-5900;OK;HARD;1;TCP OK - 0,001 second response time on port 5900
+[1256767200] CURRENT SERVICE STATE: sp9-1.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_3.9p1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sp9-2-drac.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,003 second response time
+[1256767200] CURRENT SERVICE STATE: sp9-2-drac.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 688 bytes in 0,414 seconds
+[1256767200] CURRENT SERVICE STATE: sp9-2-drac.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_3.9p1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sp9-2-drac.cs.helsinki.fi;vnc-1-tcp-5901;OK;HARD;1;TCP OK - 0,001 second response time on port 5901
+[1256767200] CURRENT SERVICE STATE: sp9-2-drac.cs.helsinki.fi;vnc-tcp-5900;OK;HARD;1;TCP OK - 0,000 second response time on port 5900
+[1256767200] CURRENT SERVICE STATE: sp9-2.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 726 bytes in 0,001 seconds
+[1256767200] CURRENT SERVICE STATE: sp9-2.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sp9-2.cs.helsinki.fi;apple-xsrvr-admin-tcp-625;OK;HARD;1;TCP OK - 0,000 second response time on port 625
+[1256767200] CURRENT SERVICE STATE: sp9-2.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: sp9-2.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: sp9-2.cs.helsinki.fi;vmware-auth-tcp-902;OK;HARD;1;TCP OK - 0,000 second response time on port 902
+[1256767200] CURRENT SERVICE STATE: sp9-3-drac.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,003 second response time
+[1256767200] CURRENT SERVICE STATE: sp9-3-drac.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 688 bytes in 0,402 seconds
+[1256767200] CURRENT SERVICE STATE: sp9-3-drac.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_3.9p1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sp9-3-drac.cs.helsinki.fi;vnc-1-tcp-5901;OK;HARD;1;TCP OK - 0,000 second response time on port 5901
+[1256767200] CURRENT SERVICE STATE: sp9-3-drac.cs.helsinki.fi;vnc-tcp-5900;OK;HARD;1;TCP OK - 0,000 second response time on port 5900
+[1256767200] CURRENT SERVICE STATE: sp9-4-drac.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,003 second response time
+[1256767200] CURRENT SERVICE STATE: sp9-4-drac.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 688 bytes in 0,454 seconds
+[1256767200] CURRENT SERVICE STATE: sp9-4-drac.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_3.9p1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sp9-4-drac.cs.helsinki.fi;vnc-1-tcp-5901;OK;HARD;1;TCP OK - 0,000 second response time on port 5901
+[1256767200] CURRENT SERVICE STATE: sp9-4-drac.cs.helsinki.fi;vnc-tcp-5900;OK;HARD;1;TCP OK - 0,000 second response time on port 5900
+[1256767200] CURRENT SERVICE STATE: sp9-5-drac.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,003 second response time
+[1256767200] CURRENT SERVICE STATE: sp9-5-drac.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 688 bytes in 0,459 seconds
+[1256767200] CURRENT SERVICE STATE: sp9-5-drac.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_3.9p1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sp9-5-drac.cs.helsinki.fi;vnc-1-tcp-5901;OK;HARD;1;TCP OK - 0,003 second response time on port 5901
+[1256767200] CURRENT SERVICE STATE: sp9-5-drac.cs.helsinki.fi;vnc-tcp-5900;OK;HARD;1;TCP OK - 0,000 second response time on port 5900
+[1256767200] CURRENT SERVICE STATE: sp9-5.cs.helsinki.fi;DNS tcp;OK;HARD;1;TCP OK - 0,000 second response time on port 53
+[1256767200] CURRENT SERVICE STATE: sp9-5.cs.helsinki.fi;DNS udp;OK;HARD;1;DNS OK: 0,004 seconds response time. kirsta.cs.helsinki.fi returns 128.214.9.167
+[1256767200] CURRENT SERVICE STATE: sp9-5.cs.helsinki.fi;FTP;OK;HARD;1;FTP OK - 0,001 second response time on port 21 [220 Microsoft FTP Service]
+[1256767200] CURRENT SERVICE STATE: sp9-5.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 1789 bytes in 0,001 seconds
+[1256767200] CURRENT SERVICE STATE: sp9-5.cs.helsinki.fi;LSA-or-nterm-tcp-1026;OK;HARD;1;TCP OK - 0,000 second response time on port 1026
+[1256767200] CURRENT SERVICE STATE: sp9-5.cs.helsinki.fi;RDP;OK;HARD;1;TCP OK - 0,000 second response time on port 3389
+[1256767200] CURRENT SERVICE STATE: sp9-5.cs.helsinki.fi;globalcatLDAPssl-tcp-3269;OK;HARD;1;TCP OK - 0,002 second response time on port 3269
+[1256767200] CURRENT SERVICE STATE: sp9-5.cs.helsinki.fi;kerberos-sec-tcp-88;OK;HARD;1;TCP OK - 0,000 second response time on port 88
+[1256767200] CURRENT SERVICE STATE: sp9-5.cs.helsinki.fi;kpasswd5-tcp-464;OK;HARD;1;TCP OK - 0,002 second response time on port 464
+[1256767200] CURRENT SERVICE STATE: sp9-5.cs.helsinki.fi;ldap-tcp-3268;OK;HARD;1;TCP OK - 0,000 second response time on port 3268
+[1256767200] CURRENT SERVICE STATE: sp9-5.cs.helsinki.fi;ldap-tcp-389;OK;HARD;1;TCP OK - 0,000 second response time on port 389
+[1256767200] CURRENT SERVICE STATE: sp9-5.cs.helsinki.fi;ldap-tcp-636;OK;HARD;1;TCP OK - 0,000 second response time on port 636
+[1256767200] CURRENT SERVICE STATE: sp9-5.cs.helsinki.fi;microsoft-ds-tcp-445;OK;HARD;1;TCP OK - 0,000 second response time on port 445
+[1256767200] CURRENT SERVICE STATE: sp9-5.cs.helsinki.fi;msrpc-tcp-135;OK;HARD;1;TCP OK - 0,000 second response time on port 135
+[1256767200] CURRENT SERVICE STATE: sp9-5.cs.helsinki.fi;ncacn_http-tcp-1027;OK;HARD;1;TCP OK - 0,000 second response time on port 1027
+[1256767200] CURRENT SERVICE STATE: sp9-5.cs.helsinki.fi;ncacn_http-tcp-593;OK;HARD;1;TCP OK - 0,000 second response time on port 593
+[1256767200] CURRENT SERVICE STATE: sp9-5.cs.helsinki.fi;netbios-ssn-tcp-139;OK;HARD;1;TCP OK - 0,000 second response time on port 139
+[1256767200] CURRENT SERVICE STATE: sp9-5.cs.helsinki.fi;wins-tcp-42;OK;HARD;1;TCP OK - 0,000 second response time on port 42
+[1256767200] CURRENT SERVICE STATE: spe-0.cs.helsinki.fi;NFS;OK;HARD;1;OK: RPC program nfs version 2 version 3 version 4 udp running
+[1256767200] CURRENT SERVICE STATE: spe-0.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: spe-0.cs.helsinki.fi;login-tcp-513;OK;HARD;1;TCP OK - 0,002 second response time on port 513
+[1256767200] CURRENT SERVICE STATE: spe-0.cs.helsinki.fi;netbios-ssn-tcp-139;OK;HARD;1;TCP OK - 0,000 second response time on port 139
+[1256767200] CURRENT SERVICE STATE: spe-0.cs.helsinki.fi;netbios-ssn-tcp-445;OK;HARD;1;TCP OK - 0,002 second response time on port 445
+[1256767200] CURRENT SERVICE STATE: spe-0.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: spe-0.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: spe-0.cs.helsinki.fi;tcpwrapped-tcp-514;OK;HARD;1;TCP OK - 0,000 second response time on port 514
+[1256767200] CURRENT SERVICE STATE: spe-2-drac.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 1425 bytes in 0,812 seconds
+[1256767200] CURRENT SERVICE STATE: spe-2-drac.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 10629 bytes in 5,315 seconds
+[1256767200] CURRENT SERVICE STATE: spe-2-drac.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - Mocana SSH (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: spe-2-drac.cs.helsinki.fi;vnc-tcp-5900;OK;HARD;1;TCP OK - 0,003 second response time on port 5900
+[1256767200] CURRENT SERVICE STATE: spe-2.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 388 bytes in 0,001 seconds
+[1256767200] CURRENT SERVICE STATE: spe-2.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: spe-2.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: spe-2.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: spe-2.cs.helsinki.fi;unknown-tcp-1011;OK;HARD;1;TCP OK - 0,001 second response time on port 1011
+[1256767200] CURRENT SERVICE STATE: sr3-1-drac.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,003 second response time
+[1256767200] CURRENT SERVICE STATE: sr3-1-drac.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 688 bytes in 0,458 seconds
+[1256767200] CURRENT SERVICE STATE: sr3-1-drac.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_3.9p1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sr3-1-drac.cs.helsinki.fi;vnc-1-tcp-5901;OK;HARD;1;TCP OK - 0,001 second response time on port 5901
+[1256767200] CURRENT SERVICE STATE: sr3-1-drac.cs.helsinki.fi;vnc-tcp-5900;OK;HARD;1;TCP OK - 0,002 second response time on port 5900
+[1256767200] CURRENT SERVICE STATE: sr3-1.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_5.1p1 Debian-3ubuntu1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sr3-1.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: sr3-1.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: sr3-2-drac.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,004 second response time
+[1256767200] CURRENT SERVICE STATE: sr3-2-drac.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 688 bytes in 0,450 seconds
+[1256767200] CURRENT SERVICE STATE: sr3-2-drac.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_3.9p1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sr3-2-drac.cs.helsinki.fi;vnc-1-tcp-5901;OK;HARD;1;TCP OK - 0,001 second response time on port 5901
+[1256767200] CURRENT SERVICE STATE: sr3-2-drac.cs.helsinki.fi;vnc-tcp-5900;OK;HARD;1;TCP OK - 0,001 second response time on port 5900
+[1256767200] CURRENT SERVICE STATE: sr3-2.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_5.1p1 Debian-3ubuntu1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sr3-2.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: sr3-2.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: sr3-3-drac.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,003 second response time
+[1256767200] CURRENT SERVICE STATE: sr3-3-drac.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 688 bytes in 0,412 seconds
+[1256767200] CURRENT SERVICE STATE: sr3-3-drac.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_3.9p1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sr3-3-drac.cs.helsinki.fi;vnc-1-tcp-5901;OK;HARD;1;TCP OK - 0,002 second response time on port 5901
+[1256767200] CURRENT SERVICE STATE: sr3-3-drac.cs.helsinki.fi;vnc-tcp-5900;OK;HARD;1;TCP OK - 0,001 second response time on port 5900
+[1256767200] CURRENT SERVICE STATE: sr3-4-drac.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,004 second response time
+[1256767200] CURRENT SERVICE STATE: sr3-4-drac.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 688 bytes in 0,474 seconds
+[1256767200] CURRENT SERVICE STATE: sr3-4-drac.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_3.9p1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sr3-4-drac.cs.helsinki.fi;vnc-1-tcp-5901;OK;HARD;1;TCP OK - 0,000 second response time on port 5901
+[1256767200] CURRENT SERVICE STATE: sr3-4-drac.cs.helsinki.fi;vnc-tcp-5900;OK;HARD;1;TCP OK - 0,001 second response time on port 5900
+[1256767200] CURRENT SERVICE STATE: sr3-5-drac.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,003 second response time
+[1256767200] CURRENT SERVICE STATE: sr3-5-drac.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 688 bytes in 0,392 seconds
+[1256767200] CURRENT SERVICE STATE: sr3-5-drac.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_3.9p1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sr3-5-drac.cs.helsinki.fi;vnc-1-tcp-5901;OK;HARD;1;TCP OK - 0,000 second response time on port 5901
+[1256767200] CURRENT SERVICE STATE: sr3-5-drac.cs.helsinki.fi;vnc-tcp-5900;OK;HARD;1;TCP OK - 0,002 second response time on port 5900
+[1256767200] CURRENT SERVICE STATE: sr3-6-drac.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,005 second response time
+[1256767200] CURRENT SERVICE STATE: sr3-6-drac.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 688 bytes in 0,438 seconds
+[1256767200] CURRENT SERVICE STATE: sr3-6-drac.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_3.9p1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sr3-6-drac.cs.helsinki.fi;vnc-1-tcp-5901;OK;HARD;1;TCP OK - 0,001 second response time on port 5901
+[1256767200] CURRENT SERVICE STATE: sr3-6-drac.cs.helsinki.fi;vnc-tcp-5900;OK;HARD;1;TCP OK - 0,001 second response time on port 5900
+[1256767200] CURRENT SERVICE STATE: sr3-7-drac.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,004 second response time
+[1256767200] CURRENT SERVICE STATE: sr3-7-drac.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 688 bytes in 0,497 seconds
+[1256767200] CURRENT SERVICE STATE: sr3-7-drac.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_3.9p1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sr3-7-drac.cs.helsinki.fi;vnc-1-tcp-5901;OK;HARD;1;TCP OK - 0,001 second response time on port 5901
+[1256767200] CURRENT SERVICE STATE: sr3-7-drac.cs.helsinki.fi;vnc-tcp-5900;OK;HARD;1;TCP OK - 0,001 second response time on port 5900
+[1256767200] CURRENT SERVICE STATE: sr3-7.cs.helsinki.fi;RDP;OK;HARD;1;TCP OK - 0,000 second response time on port 3389
+[1256767200] CURRENT SERVICE STATE: sr3-7.cs.helsinki.fi;msrpc-tcp-135;OK;HARD;1;TCP OK - 0,000 second response time on port 135
+[1256767200] CURRENT SERVICE STATE: sr3-7.cs.helsinki.fi;netbios-ssn-tcp-139;OK;HARD;1;TCP OK - 0,002 second response time on port 139
+[1256767200] CURRENT SERVICE STATE: sr3-7.cs.helsinki.fi;netbios-ssn-tcp-445;OK;HARD;1;TCP OK - 0,000 second response time on port 445
+[1256767200] CURRENT SERVICE STATE: sr3-7.cs.helsinki.fi;unknown-tcp-49152;OK;HARD;1;TCP OK - 0,000 second response time on port 49152
+[1256767200] CURRENT SERVICE STATE: sr3-7.cs.helsinki.fi;unknown-tcp-49153;OK;HARD;1;TCP OK - 0,005 second response time on port 49153
+[1256767200] CURRENT SERVICE STATE: sr3-7.cs.helsinki.fi;unknown-tcp-49154;OK;HARD;1;TCP OK - 0,002 second response time on port 49154
+[1256767200] CURRENT SERVICE STATE: sr3-9-drac.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,003 second response time
+[1256767200] CURRENT SERVICE STATE: sr3-9-drac.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 688 bytes in 0,443 seconds
+[1256767200] CURRENT SERVICE STATE: sr3-9-drac.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_3.9p1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sr3-9-drac.cs.helsinki.fi;vnc-1-tcp-5901;OK;HARD;1;TCP OK - 0,000 second response time on port 5901
+[1256767200] CURRENT SERVICE STATE: sr3-9-drac.cs.helsinki.fi;vnc-tcp-5900;OK;HARD;1;TCP OK - 0,000 second response time on port 5900
+[1256767200] CURRENT SERVICE STATE: sr3-9.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,001 second response time
+[1256767200] CURRENT SERVICE STATE: sr3-9.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,095 second response time
+[1256767200] CURRENT SERVICE STATE: sr3-9.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_5.1p1 Debian-3ubuntu1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: sr3-9.cs.helsinki.fi;mysql-tcp-3306;OK;HARD;1;TCP OK - 0,000 second response time on port 3306
+[1256767200] CURRENT SERVICE STATE: sr3-9.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: sr3-9.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: svm-1.cs.helsinki.fi;HTTP;CRITICAL;HARD;3;No route to host
+[1256767200] CURRENT SERVICE STATE: svm-1.cs.helsinki.fi;HTTPS;CRITICAL;HARD;3;No route to host
+[1256767200] CURRENT SERVICE STATE: svm-1.cs.helsinki.fi;NFS;CRITICAL;HARD;3;CRITICAL: RPC program nfs  udp is not running
+[1256767200] CURRENT SERVICE STATE: svm-1.cs.helsinki.fi;SSH;CRITICAL;HARD;3;No route to host
+[1256767200] CURRENT SERVICE STATE: svm-1.cs.helsinki.fi;mysql-tcp-3306;CRITICAL;HARD;3;No route to host
+[1256767200] CURRENT SERVICE STATE: svm-1.cs.helsinki.fi;rpcbind-tcp;CRITICAL;HARD;3;CRITICAL: RPC program portmapper  tcp is not running
+[1256767200] CURRENT SERVICE STATE: svm-1.cs.helsinki.fi;rpcbind-udp;CRITICAL;HARD;3;CRITICAL: RPC program portmapper  udp is not running
+[1256767200] CURRENT SERVICE STATE: svm-10.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,003 second response time
+[1256767200] CURRENT SERVICE STATE: svm-10.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.7p1 Debian-8ubuntu1.2 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: svm-11.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_5.1p1 Debian-3ubuntu1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: svm-11.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: svm-11.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: svm-2.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,003 second response time
+[1256767200] CURRENT SERVICE STATE: svm-2.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,114 second response time
+[1256767200] CURRENT SERVICE STATE: svm-2.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: svm-2.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: svm-2.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: svm-5.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 1278 bytes in 0,003 seconds
+[1256767200] CURRENT SERVICE STATE: svm-5.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.7p1 Debian-8ubuntu1.2 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: svm-5.cs.helsinki.fi;blackice-icecap-tcp-8081;OK;HARD;1;TCP OK - 0,000 second response time on port 8081
+[1256767200] CURRENT SERVICE STATE: svm-5.cs.helsinki.fi;http-proxy-tcp-8080;OK;HARD;1;TCP OK - 0,002 second response time on port 8080
+[1256767200] CURRENT SERVICE STATE: svm-5.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: svm-5.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: svm-6.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,014 second response time
+[1256767200] CURRENT SERVICE STATE: svm-6.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,117 second response time
+[1256767200] CURRENT SERVICE STATE: svm-6.cs.helsinki.fi;NFS;OK;HARD;1;OK: RPC program nfs version 2 version 3 version 4 udp running
+[1256767200] CURRENT SERVICE STATE: svm-6.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.5 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: svm-6.cs.helsinki.fi;mysql-tcp-3306;OK;HARD;1;TCP OK - 0,001 second response time on port 3306
+[1256767200] CURRENT SERVICE STATE: svm-6.cs.helsinki.fi;remoteanything-tcp-4000;OK;HARD;1;TCP OK - 0,000 second response time on port 4000
+[1256767200] CURRENT SERVICE STATE: svm-6.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: svm-6.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: switch-e.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK <html> - 1447 bytes in 0,064 seconds
+[1256767200] CURRENT SERVICE STATE: vera-drac.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 1425 bytes in 0,180 seconds
+[1256767200] CURRENT SERVICE STATE: vera-drac.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 10629 bytes in 5,411 seconds
+[1256767200] CURRENT SERVICE STATE: vera-drac.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - Mocana SSH (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: vera.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_5.1p1 Debian-3ubuntu1 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: vera.cs.helsinki.fi;http-proxy-tcp-80;CRITICAL;HARD;3;Connection refused
+[1256767200] CURRENT SERVICE STATE: vera.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: vera.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: www-nomadic.cs.helsinki.fi;FTP;OK;HARD;1;FTP OK - 0,003 second response time on port 21 [220 This is CS-departments anonymous ftp server. User ftp is NOT supported.]
+[1256767200] CURRENT SERVICE STATE: www-nomadic.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK - HTTP/1.1 302 Found - 0,001 second response time
+[1256767200] CURRENT SERVICE STATE: www-nomadic.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 403 Forbidden - 579 bytes in 0,092 seconds
+[1256767200] CURRENT SERVICE STATE: www-nomadic.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: www-nomadic.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: www-nomadic.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767200] CURRENT SERVICE STATE: www.cs.helsinki.fi;FTP;OK;HARD;1;FTP OK - 0,003 second response time on port 21 [220 This is CS-departments anonymous ftp server. User ftp is NOT supported.]
+[1256767200] CURRENT SERVICE STATE: www.cs.helsinki.fi;HTTP;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 9263 bytes in 0,005 seconds
+[1256767200] CURRENT SERVICE STATE: www.cs.helsinki.fi;HTTPS;OK;HARD;1;HTTP OK HTTP/1.1 200 OK - 9263 bytes in 0,121 seconds
+[1256767200] CURRENT SERVICE STATE: www.cs.helsinki.fi;HTTPS_CA;OK;HARD;1;SSL CERT OK - X.509 certificate for www.cs.helsinki.fi from Equifax valid until Sep 19 19:40:06 2011 GMT
+[1256767200] CURRENT SERVICE STATE: www.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.3 (protocol 2.0)
+[1256767200] CURRENT SERVICE STATE: www.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256767200] CURRENT SERVICE STATE: www.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256767632] SERVICE ALERT: spe-2-drac.cs.helsinki.fi;HTTPS;CRITICAL;SOFT;1;CRITICAL - Cannot make SSL connection
+[1256767692] SERVICE ALERT: spe-2-drac.cs.helsinki.fi;HTTPS;OK;SOFT;2;HTTP OK HTTP/1.1 200 OK - 10629 bytes in 5,336 seconds
+[1256768522] Auto-save of retention data completed successfully.
+[1256769432] SERVICE NOTIFICATION: pervila;lc2-6.cs.helsinki.fi;SSH;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout after 10 seconds
+[1256769432] SERVICE NOTIFICATION: itsupport;lc2-6.cs.helsinki.fi;SSH;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout after 10 seconds
+[1256769442] SERVICE NOTIFICATION: pervila;lc2-6.cs.helsinki.fi;rpcbind-udp;UNKNOWN;notify-service-by-email;ERROR: No response from RPC server (alarm)
+[1256769442] SERVICE NOTIFICATION: itsupport;lc2-6.cs.helsinki.fi;rpcbind-udp;UNKNOWN;notify-service-by-email;ERROR: No response from RPC server (alarm)
+[1256769442] SERVICE NOTIFICATION: pervila;lc2-6.cs.helsinki.fi;rpcbind-tcp;UNKNOWN;notify-service-by-email;ERROR: No response from RPC server (alarm)
+[1256769442] SERVICE NOTIFICATION: itsupport;lc2-6.cs.helsinki.fi;rpcbind-tcp;UNKNOWN;notify-service-by-email;ERROR: No response from RPC server (alarm)
+[1256772122] Auto-save of retention data completed successfully.
+[1256775722] Auto-save of retention data completed successfully.
+[1256779322] Auto-save of retention data completed successfully.
+[1256782922] Auto-save of retention data completed successfully.
+[1256783832] SERVICE NOTIFICATION: pervila;lc2-6.cs.helsinki.fi;SSH;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout after 10 seconds
+[1256783832] SERVICE NOTIFICATION: itsupport;lc2-6.cs.helsinki.fi;SSH;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout after 10 seconds
+[1256783842] SERVICE NOTIFICATION: pervila;lc2-6.cs.helsinki.fi;rpcbind-udp;UNKNOWN;notify-service-by-email;ERROR: No response from RPC server (alarm)
+[1256783842] SERVICE NOTIFICATION: itsupport;lc2-6.cs.helsinki.fi;rpcbind-udp;UNKNOWN;notify-service-by-email;ERROR: No response from RPC server (alarm)
+[1256783842] SERVICE NOTIFICATION: pervila;lc2-6.cs.helsinki.fi;rpcbind-tcp;UNKNOWN;notify-service-by-email;ERROR: No response from RPC server (alarm)
+[1256783842] SERVICE NOTIFICATION: itsupport;lc2-6.cs.helsinki.fi;rpcbind-tcp;UNKNOWN;notify-service-by-email;ERROR: No response from RPC server (alarm)
+[1256786522] Auto-save of retention data completed successfully.
+[1256790122] Auto-save of retention data completed successfully.
+[1256791332] SERVICE ALERT: fs-drac.cs.helsinki.fi;HTTPS;CRITICAL;SOFT;1;CRITICAL - Cannot make SSL connection
+[1256791392] SERVICE ALERT: fs-drac.cs.helsinki.fi;HTTPS;OK;SOFT;2;HTTP OK HTTP/1.1 200 OK - 10630 bytes in 5,461 seconds
+[1256793722] Auto-save of retention data completed successfully.
+[1256797322] Auto-save of retention data completed successfully.
+[1256798232] SERVICE NOTIFICATION: pervila;lc2-6.cs.helsinki.fi;SSH;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout after 10 seconds
+[1256798232] SERVICE NOTIFICATION: itsupport;lc2-6.cs.helsinki.fi;SSH;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout after 10 seconds
+[1256798242] SERVICE NOTIFICATION: pervila;lc2-6.cs.helsinki.fi;rpcbind-udp;UNKNOWN;notify-service-by-email;ERROR: No response from RPC server (alarm)
+[1256798242] SERVICE NOTIFICATION: itsupport;lc2-6.cs.helsinki.fi;rpcbind-udp;UNKNOWN;notify-service-by-email;ERROR: No response from RPC server (alarm)
+[1256798242] SERVICE NOTIFICATION: pervila;lc2-6.cs.helsinki.fi;rpcbind-tcp;UNKNOWN;notify-service-by-email;ERROR: No response from RPC server (alarm)
+[1256798242] SERVICE NOTIFICATION: itsupport;lc2-6.cs.helsinki.fi;rpcbind-tcp;UNKNOWN;notify-service-by-email;ERROR: No response from RPC server (alarm)
+[1256800922] Auto-save of retention data completed successfully.
+[1256804402] HOST ALERT: lc2-6.cs.helsinki.fi;DOWN;SOFT;1;CRITICAL - Host Unreachable (128.214.11.86)
+[1256804472] HOST ALERT: lc2-6.cs.helsinki.fi;DOWN;SOFT;2;CRITICAL - Host Unreachable (128.214.11.86)
+[1256804522] Auto-save of retention data completed successfully.
+[1256804532] SERVICE ALERT: lc2-6.cs.helsinki.fi;rpcbind-udp;CRITICAL;HARD;1;CRITICAL: RPC program portmapper  udp is not running
+[1256804532] SERVICE ALERT: lc2-6.cs.helsinki.fi;rpcbind-tcp;CRITICAL;HARD;1;CRITICAL: RPC program portmapper  tcp is not running
+[1256804542] HOST ALERT: lc2-6.cs.helsinki.fi;DOWN;SOFT;3;CRITICAL - Host Unreachable (128.214.11.86)
+[1256804612] HOST ALERT: lc2-6.cs.helsinki.fi;UP;SOFT;4;PING OK - Packet loss = 0%, RTA = 0.67 ms
+[1256804822] SERVICE ALERT: lc2-6.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256804822] SERVICE NOTIFICATION: pervila;lc2-6.cs.helsinki.fi;rpcbind-udp;OK;notify-service-by-email;OK: RPC program portmapper version 2 udp running
+[1256804822] SERVICE NOTIFICATION: itsupport;lc2-6.cs.helsinki.fi;rpcbind-udp;OK;notify-service-by-email;OK: RPC program portmapper version 2 udp running
+[1256804822] SERVICE ALERT: lc2-6.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_5.1p1 Debian-3ubuntu1 (protocol 2.0)
+[1256804822] SERVICE NOTIFICATION: pervila;lc2-6.cs.helsinki.fi;SSH;OK;notify-service-by-email;SSH OK - OpenSSH_5.1p1 Debian-3ubuntu1 (protocol 2.0)
+[1256804822] SERVICE NOTIFICATION: itsupport;lc2-6.cs.helsinki.fi;SSH;OK;notify-service-by-email;SSH OK - OpenSSH_5.1p1 Debian-3ubuntu1 (protocol 2.0)
+[1256804832] SERVICE ALERT: lc2-6.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256804832] SERVICE NOTIFICATION: pervila;lc2-6.cs.helsinki.fi;rpcbind-tcp;OK;notify-service-by-email;OK: RPC program portmapper version 2 tcp running
+[1256804832] SERVICE NOTIFICATION: itsupport;lc2-6.cs.helsinki.fi;rpcbind-tcp;OK;notify-service-by-email;OK: RPC program portmapper version 2 tcp running
+[1256805302] SERVICE ALERT: svm-5.cs.helsinki.fi;http-proxy-tcp-8080;CRITICAL;SOFT;1;Connection refused
+[1256805302] SERVICE ALERT: svm-5.cs.helsinki.fi;HTTP;CRITICAL;SOFT;1;Connection refused
+[1256805312] SERVICE ALERT: svm-5.cs.helsinki.fi;blackice-icecap-tcp-8081;CRITICAL;SOFT;1;Connection refused
+[1256805362] SERVICE ALERT: svm-5.cs.helsinki.fi;http-proxy-tcp-8080;CRITICAL;SOFT;2;Connection refused
+[1256805362] SERVICE ALERT: svm-5.cs.helsinki.fi;HTTP;CRITICAL;SOFT;2;Connection refused
+[1256805372] SERVICE ALERT: svm-5.cs.helsinki.fi;blackice-icecap-tcp-8081;CRITICAL;SOFT;2;Connection refused
+[1256805422] SERVICE ALERT: svm-5.cs.helsinki.fi;http-proxy-tcp-8080;CRITICAL;HARD;3;Connection refused
+[1256805422] SERVICE NOTIFICATION: pervila;svm-5.cs.helsinki.fi;http-proxy-tcp-8080;CRITICAL;notify-service-by-email;Connection refused
+[1256805422] SERVICE NOTIFICATION: itsupport;svm-5.cs.helsinki.fi;http-proxy-tcp-8080;CRITICAL;notify-service-by-email;Connection refused
+[1256805422] SERVICE ALERT: svm-5.cs.helsinki.fi;HTTP;CRITICAL;HARD;3;Connection refused
+[1256805422] SERVICE NOTIFICATION: pervila;svm-5.cs.helsinki.fi;HTTP;CRITICAL;notify-service-by-email;Connection refused
+[1256805422] SERVICE NOTIFICATION: itsupport;svm-5.cs.helsinki.fi;HTTP;CRITICAL;notify-service-by-email;Connection refused
+[1256805432] SERVICE ALERT: svm-5.cs.helsinki.fi;blackice-icecap-tcp-8081;CRITICAL;HARD;3;Connection refused
+[1256805432] SERVICE NOTIFICATION: pervila;svm-5.cs.helsinki.fi;blackice-icecap-tcp-8081;CRITICAL;notify-service-by-email;Connection refused
+[1256805432] SERVICE NOTIFICATION: itsupport;svm-5.cs.helsinki.fi;blackice-icecap-tcp-8081;CRITICAL;notify-service-by-email;Connection refused
+[1256805612] SERVICE ALERT: svm-5.cs.helsinki.fi;SSH;CRITICAL;SOFT;1;No route to host
+[1256805612] SERVICE ALERT: svm-5.cs.helsinki.fi;rpcbind-udp;CRITICAL;SOFT;1;CRITICAL: RPC program portmapper  udp is not running
+[1256805612] SERVICE ALERT: svm-5.cs.helsinki.fi;rpcbind-tcp;CRITICAL;SOFT;1;CRITICAL: RPC program portmapper  tcp is not running
+[1256805622] HOST ALERT: svm-5.cs.helsinki.fi;DOWN;SOFT;1;CRITICAL - Host Unreachable (128.214.11.45)
+[1256805642] HOST ALERT: svm-5.cs.helsinki.fi;DOWN;SOFT;2;CRITICAL - Host Unreachable (128.214.11.45)
+[1256805672] SERVICE ALERT: svm-5.cs.helsinki.fi;SSH;CRITICAL;HARD;1;No route to host
+[1256805672] SERVICE ALERT: svm-5.cs.helsinki.fi;rpcbind-udp;CRITICAL;HARD;1;CRITICAL: RPC program portmapper  udp is not running
+[1256805672] SERVICE ALERT: svm-5.cs.helsinki.fi;rpcbind-tcp;CRITICAL;HARD;1;CRITICAL: RPC program portmapper  tcp is not running
+[1256805712] HOST ALERT: svm-5.cs.helsinki.fi;UP;SOFT;3;PING OK - Packet loss = 0%, RTA = 1.31 ms
+[1256805962] SERVICE ALERT: svm-5.cs.helsinki.fi;rpcbind-tcp;OK;HARD;1;OK: RPC program portmapper version 2 tcp running
+[1256805972] SERVICE ALERT: svm-5.cs.helsinki.fi;SSH;OK;HARD;1;SSH OK - OpenSSH_4.7p1 Debian-8ubuntu1.2 (protocol 2.0)
+[1256805972] SERVICE ALERT: svm-5.cs.helsinki.fi;rpcbind-udp;OK;HARD;1;OK: RPC program portmapper version 2 udp running
+[1256807462] SERVICE ALERT: svm-5.cs.helsinki.fi;rpcbind-tcp;CRITICAL;SOFT;1;CRITICAL: RPC program portmapper  tcp is not running
+[1256807472] SERVICE ALERT: svm-5.cs.helsinki.fi;rpcbind-udp;CRITICAL;SOFT;1;CRITICAL: RPC program portmapper  udp is not running
+[1256807522] SERVICE ALERT: svm-5.cs.helsinki.fi;rpcbind-tcp;CRITICAL;SOFT;2;CRITICAL: RPC program portmapper  tcp is not running
+[1256807532] SERVICE ALERT: svm-5.cs.helsinki.fi;rpcbind-udp;CRITICAL;SOFT;2;CRITICAL: RPC program portmapper  udp is not running
+[1256807582] SERVICE ALERT: svm-5.cs.helsinki.fi;rpcbind-tcp;CRITICAL;HARD;3;CRITICAL: RPC program portmapper  tcp is not running
+[1256807582] SERVICE NOTIFICATION: pervila;svm-5.cs.helsinki.fi;rpcbind-tcp;CRITICAL;notify-service-by-email;CRITICAL: RPC program portmapper  tcp is not running
+[1256807582] SERVICE NOTIFICATION: itsupport;svm-5.cs.helsinki.fi;rpcbind-tcp;CRITICAL;notify-service-by-email;CRITICAL: RPC program portmapper  tcp is not running
+[1256807592] SERVICE ALERT: svm-5.cs.helsinki.fi;rpcbind-udp;CRITICAL;HARD;3;CRITICAL: RPC program portmapper  udp is not running
+[1256807592] SERVICE NOTIFICATION: pervila;svm-5.cs.helsinki.fi;rpcbind-udp;CRITICAL;notify-service-by-email;CRITICAL: RPC program portmapper  udp is not running
+[1256807592] SERVICE NOTIFICATION: itsupport;svm-5.cs.helsinki.fi;rpcbind-udp;CRITICAL;notify-service-by-email;CRITICAL: RPC program portmapper  udp is not running
+[1256808122] Auto-save of retention data completed successfully.
+[1256808482] SERVICE ALERT: svm-5.cs.helsinki.fi;rpcbind-tcp;OK;HARD;3;OK: RPC program portmapper version 2 tcp running
+[1256808482] SERVICE FLAPPING ALERT: svm-5.cs.helsinki.fi;rpcbind-tcp;STARTED; Service appears to have started flapping (22.4% change >= 20.0% threshold)
+[1256808492] SERVICE ALERT: svm-5.cs.helsinki.fi;rpcbind-udp;OK;HARD;3;OK: RPC program portmapper version 2 udp running
+[1256808492] SERVICE FLAPPING ALERT: svm-5.cs.helsinki.fi;rpcbind-udp;STARTED; Service appears to have started flapping (22.4% change >= 20.0% threshold)
+[1256809272] SERVICE ALERT: vera-drac.cs.helsinki.fi;HTTPS;CRITICAL;SOFT;1;CRITICAL - Cannot make SSL connection
+[1256809332] SERVICE ALERT: vera-drac.cs.helsinki.fi;HTTPS;OK;SOFT;2;HTTP OK HTTP/1.1 200 OK - 10629 bytes in 5,503 seconds
+[1256811722] Auto-save of retention data completed successfully.
+[1256811802] SERVICE ALERT: svm-5.cs.helsinki.fi;rpcbind-udp;CRITICAL;SOFT;1;CRITICAL: RPC program portmapper  udp is not running
+[1256811802] SERVICE ALERT: svm-5.cs.helsinki.fi;rpcbind-tcp;UNKNOWN;SOFT;1;ERROR: No response from RPC server (alarm)
+[1256811842] SERVICE ALERT: svm-5.cs.helsinki.fi;rpcbind-tcp;OK;SOFT;2;OK: RPC program portmapper version 2 tcp running
+[1256811852] SERVICE ALERT: svm-5.cs.helsinki.fi;rpcbind-udp;OK;SOFT;2;OK: RPC program portmapper version 2 udp running
+[1256813642] SERVICE FLAPPING ALERT: svm-5.cs.helsinki.fi;rpcbind-tcp;STOPPED; Service appears to have stopped flapping (4.0% change < 5.0% threshold)
+[1256813652] SERVICE FLAPPING ALERT: svm-5.cs.helsinki.fi;rpcbind-udp;STOPPED; Service appears to have stopped flapping (4.0% change < 5.0% threshold)
+[1256814422] SERVICE ALERT: svm-5.cs.helsinki.fi;http-proxy-tcp-8080;OK;HARD;3;TCP OK - 0,001 second response time on port 8080
+[1256814422] SERVICE NOTIFICATION: pervila;svm-5.cs.helsinki.fi;http-proxy-tcp-8080;OK;notify-service-by-email;TCP OK - 0,001 second response time on port 8080
+[1256814422] SERVICE NOTIFICATION: itsupport;svm-5.cs.helsinki.fi;http-proxy-tcp-8080;OK;notify-service-by-email;TCP OK - 0,001 second response time on port 8080
+[1256814422] SERVICE ALERT: svm-5.cs.helsinki.fi;HTTP;OK;HARD;3;HTTP OK HTTP/1.1 200 OK - 1278 bytes in 0,005 seconds
+[1256814422] SERVICE NOTIFICATION: pervila;svm-5.cs.helsinki.fi;HTTP;OK;notify-service-by-email;HTTP OK HTTP/1.1 200 OK - 1278 bytes in 0,005 seconds
+[1256814422] SERVICE NOTIFICATION: itsupport;svm-5.cs.helsinki.fi;HTTP;OK;notify-service-by-email;HTTP OK HTTP/1.1 200 OK - 1278 bytes in 0,005 seconds
+[1256814432] SERVICE ALERT: svm-5.cs.helsinki.fi;blackice-icecap-tcp-8081;OK;HARD;3;TCP OK - 0,001 second response time on port 8081
+[1256814432] SERVICE NOTIFICATION: pervila;svm-5.cs.helsinki.fi;blackice-icecap-tcp-8081;OK;notify-service-by-email;TCP OK - 0,001 second response time on port 8081
+[1256814432] SERVICE NOTIFICATION: itsupport;svm-5.cs.helsinki.fi;blackice-icecap-tcp-8081;OK;notify-service-by-email;TCP OK - 0,001 second response time on port 8081
+[1256815322] Auto-save of retention data completed successfully.
+[1256815982] SERVICE ALERT: melkki.cs.helsinki.fi;SSH;CRITICAL;SOFT;1;Server answer:
+[1256816042] SERVICE ALERT: melkki.cs.helsinki.fi;SSH;CRITICAL;SOFT;2;Server answer:
+[1256816102] SERVICE ALERT: melkki.cs.helsinki.fi;SSH;CRITICAL;HARD;3;Server answer:
+[1256816102] SERVICE NOTIFICATION: pervila;melkki.cs.helsinki.fi;SSH;CRITICAL;notify-service-by-email;Server answer:
+[1256816102] SERVICE NOTIFICATION: itsupport;melkki.cs.helsinki.fi;SSH;CRITICAL;notify-service-by-email;Server answer:
+[1256816402] SERVICE ALERT: melkki.cs.helsinki.fi;SSH;OK;HARD;3;SSH OK - OpenSSH_5.1p1 Debian-3ubuntu1 (protocol 2.0)
+[1256816402] SERVICE NOTIFICATION: pervila;melkki.cs.helsinki.fi;SSH;OK;notify-service-by-email;SSH OK - OpenSSH_5.1p1 Debian-3ubuntu1 (protocol 2.0)
+[1256816402] SERVICE NOTIFICATION: itsupport;melkki.cs.helsinki.fi;SSH;OK;notify-service-by-email;SSH OK - OpenSSH_5.1p1 Debian-3ubuntu1 (protocol 2.0)
+[1256818922] Auto-save of retention data completed successfully.
+[1256820432] SERVICE ALERT: vera-drac.cs.helsinki.fi;HTTPS;CRITICAL;SOFT;1;CRITICAL - Cannot make SSL connection
+[1256820492] SERVICE ALERT: vera-drac.cs.helsinki.fi;HTTPS;OK;SOFT;2;HTTP OK HTTP/1.1 200 OK - 10629 bytes in 5,415 seconds
+[1256822522] Auto-save of retention data completed successfully.
+[1256826122] Auto-save of retention data completed successfully.
+[1256829722] Auto-save of retention data completed successfully.
+[1256833322] Auto-save of retention data completed successfully.
+[1256836922] Auto-save of retention data completed successfully.
+[1256840522] Auto-save of retention data completed successfully.
+[1256844122] Auto-save of retention data completed successfully.
+[1256844622] SERVICE ALERT: switch-e.cs.helsinki.fi;HTTP;CRITICAL;SOFT;1;CRITICAL - Socket timeout after 10 seconds
+[1256844672] SERVICE ALERT: switch-e.cs.helsinki.fi;HTTP;OK;SOFT;2;HTTP OK <html> - 1447 bytes in 0,058 seconds
+[1256846942] SERVICE NOTIFICATION: pervila;kiilinkari.cs.helsinki.fi;LDAP_CA;CRITICAL;notify-service-by-email;SSL CERT CRITICAL : No certificate returned
+[1256846942] SERVICE NOTIFICATION: itsupport;kiilinkari.cs.helsinki.fi;LDAP_CA;CRITICAL;notify-service-by-email;SSL CERT CRITICAL : No certificate returned
+[1256847722] Auto-save of retention data completed successfully.
+[1256851322] Auto-save of retention data completed successfully.

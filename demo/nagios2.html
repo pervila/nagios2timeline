@@ -1,0 +1,21 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="fi">
+  <head>
+   <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+   <title>Nagios events Timelined</title>
+   <!-- Timeline must be sourced from the head section -->
+   <script src="http://static.simile.mit.edu/timeline/api-2.3.0/timeline-api.js?bundle=true" 
+     type="text/javascript"></script>
+  </head>
+  <body onload="onLoad();" onresize="onResize();">
+    <h1>Timeline of Nagios events</h1>
+    <!-- id below must match the one given in the JavaScript used to
+    configure the widget -->
+    <div id="nagios-timeline" style="height: 800px; border: 1px solid #aaa"></div>
+    <noscript>
+      This page uses Javascript to show you a Timeline. Please enable 
+      Javascript in your browser to see the full page. Thank you.
+    </noscript>
+  </body>
+  <script src="nagios2-configs.js" type="text/javascript"></script>
+ </html>

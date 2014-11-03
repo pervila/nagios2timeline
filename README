@@ -1,0 +1,77 @@
+Nagios2Timeline Readme File
+===========================
+
+The Nagios2Timeline is implemented as its own module file
+``Nagios2Timeline.py'' and associated wrapper script ``N2T-tool.py''. In
+addition, there is an incomplete unit test suite runnable through the
+``test_Nagios2Timeline.py'' module. The test suite is further described 
+in the file TESTING.
+
+Usage of the module is quite straight-forward. If run without further
+arguments, ``N2T-tool.py'' will print a useful help message. There are a lot
+of options, but for the common case, only the input log files and output file
+are needed. The wrapper script will gently try to guide the user with these.
+
+Demos are provided in the ``demo'' directory. There are three different demos
+available:
+
+* ``example1.html'' -- taken from Timeline's wiki, basic example
+* ``nagios1.html''  -- uses nagios1.xml generated from ``examples/nagios.log''
+* ``nagios2.html''  -- as above, but different time format
+
+The demos have been tested to work correctly when run in a local browser
+window. In the ``examples'' directory, a sample Nagios log file has been
+provided. This file is exempt from the rest of the licenses (see COPYING for
+further details) of the Nagios2Timeline tool: the sample Nagios log file MUST
+NOT be copied any further than to the course personnel of the ``Programming in
+Python'' course of the CS Dept, Uni. Helsinki.
+
+
+Changes to the DESIGN document
+==============================
+
+The writer classes are implemented as derived classes of the base class
+``TimelineWriter''. Currently, only the ``TimelineWriterXML'' class is usable,
+but this is in accordance with the instructions received.
+
+
+Unresolved issues
+=================
+
+Unfortunately, this utility must be considered to have somewhat failed its
+purpose. For its intended usage, to visualize downtimes in the CS Dept
+network, the Timeline widget is still too resource-intensive.
+
+When operating on the complete log archive from 2004 to October 2009, the
+resulting XML output file will be a little over 24 MB in size. This will cause
+a desktop Firefox browser with some 4 GB of memory to choke on the JavaScript
+calls.
+
+Additionally, due to the use of the built-in ``minidom'' XML DOM, the whole
+output document must be kept in memory before writing. This will result in
+quite substantial memory use when operating on larger data sets.
+
+A possible fix for these phenomena would be to implement JSON output and test
+again. I will probably write the missing methods next week.
+
+Some problems remain with the experimental RFC 2822 timestamps. The Timeline
+widget accepts several different time formats, but Python does not seem to be
+able to output Timeline's default format out of the box. The problem lies in
+the fact that Nagios epoch timestamps would need to be read by an ``aware''
+time object, meaning that the output should contain UTC offsets supplemented
+by daylight savings time. The current solution outputs UTC only and does
+mistakes with daylight savings time.
+
+Not all of the omit-modes work as they should. However, they should be
+considered of very minor importance, as it is practically difficult to imagine
+cases where every option could be useful. Remaining bugs related to the
+options should be very easy to squash.
+
+Finally, additional program options should be implemented for the ``append''
+mode, intended from automated reruns of the tool. When operating in ``append''
+mode, existing output files written by TimelineWriter objects are read before
+any additional processing. There is some support for figuring out events which
+were still ongoing at the end of the previous run. Ideally, Nagios2Timeline is
+able to "close" events which span multiple runs of the tool.
+
+-- Mikko Pervilä, <pervila@cs.helsinki.fi>

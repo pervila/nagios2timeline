@@ -1,0 +1,141 @@
+Programming in Python, Fall 2009
+Design document for project work
+Mikko Pervilä, <pervila@cs.helsinki.fi>
+================================
+
+For the Python project work, I've selected my own topic. The purpose of the
+project work is to write a command-line utility that reads log files from the
+Nagios sentinel service and outputs data in JSON or XML format for the
+Timeline widget. It is intended that the finished utility will be released as
+open source code under the GPL v3 license or later.
+
+The rough idea of the browser-based Timeline widget [1] is that it visualizes
+a number of host and service failures. Timeline enables administrators and
+researchers to easily review failures occurring on different hosts at
+approximately the same time. This is very useful when looking for correlated
+failures.
+
+This document briefly describes Nagios output and Timeline's input formats,
+then explains how the command-line utility will be implemented.
+
+
+Nagios output format
+====================
+
+Nagios outputs one text-formatted log file per day, rotating previously used
+log files into its log archive. The command-line utility will parse through
+one or more of the log files, recording the given event types into the internal
+data structures of the READER class (see Implementation, below).
+
+The event types that we are interested in are usually host and service
+malfunctions. There can be multiple services per host. Nagios records a line
+when it detects a failure or recovery. The formats are more thoroughly
+specified in [2]. The following examples are given:
+
+    [1254951462] SERVICE ALERT: lc2-8.cs.helsinki.fi;rpcbind-udp;UNKNOWN;HARD;3;ERROR: No response from RPC server (alarm)
+
+Nagios has detected a permanent ('hard') failure of the RPC server
+('rpcbind-udp') on the host lc2-8.cs.helsinki.fi. The first integer in square
+brackets is the timestamp of the event.
+
+    [1254399082] HOST ALERT: sp9-5.cs.helsinki.fi;UP;SOFT;2;PING OK - Packet loss = 16%, RTA = 46.02 ms
+
+Nagios has detected a recovery of the host sp9-5.cs.helsinki.fi, meaning that
+one or all of its services have resumed operation. Time timestamp recorded is
+the time when the failure detected previously has ceased. Thus, the duration
+of the event is given by timestamp2-timestamp1.
+
+The command-line utility may be instructed to record both host and service
+failures, or either kind alone. If time permits, the command-line utility may
+be implemented to gather further information regarding the hosts and services. 
+Such information will then be read from Nagios' configuration files, where 
+each host and service may include extra description fields recorded by the 
+Nagios administrator.
+
+
+Timeline input formats
+======================
+
+The input data may contain either events that have a set duration, usually
+visualized as lines, or events that have a discrete duration, usually
+visualized as dots. Most of Nagios' events have set durations, but
+intermittent errors could be included in the visualization using a
+command-line parameter.
+
+The event attributes and data formats are thoroughly described in [3]. The
+Timeline widget reads input data given in XML or JSON files. It is intended
+that the command-line utility will support both. This is due to the fact that
+the JSON format may be better suited for constrained clients, e.g., mobile
+clients using the widget.
+
+Timeline's configuration is beyond the scope of this document, but a working
+demo will be provided to the reviewer of this project work.
+
+
+Implementation
+==============
+
+The command-line utility will be implemented as an executable wrapper that
+calls the implemented module. All classes and interfaces will be written and
+documented in such a fashion that they may also be called without executing
+the wrapper. This is done in order to permit inclusion in third-party
+applications, e.g., administration interfaces running as web applications.
+When executing the module file directly, implementation tests are run and
+their results output.
+
+Nagios' log files will be encapsulated in a class "READER" (working title),
+which will contain interfaces for opening a given log file and iterating
+through all the specified events. Host or service or both event types may be
+included. The iterator will raise the StopIteration exception when the log
+file has been parsed through. Python's regular expressions will be very
+useful in parsing the log files. 
+
+Timeline's event sources will be encapsulated in a class "WRITER". (working
+title). WRITER will be instructed to call specific READER objects iteratively
+for events to be output. When the iteration finishes, WRITER may be given more
+READER objects to iterate. In this fashion, a WRITER can encapsulate output
+from more than one Nagios log file.
+
+WRITER will support both JSON and XML file formats. The XML format will be
+supported through the module included in the Python standard library. Since
+JSON is new in version 2.6 and the project work must be written in 2.5, JSON
+will require the 'simplejson' JSON encoder/decoder available from [4]. (If a
+backport of the standard library version exists, it may be preferrable.)
+
+The command-line interface is roughly sketched as follows. Please note that
+the Timeline widget is under development. If further interesting features are
+discovered during development, this interface may be extended. For parsing the
+command-line arguments, the standard optparse module should remain sufficient.
+
+# ./n2t --help
+Usage: n2t -r filename(s) -o filename [OPTIONS]
+  -r | --read filename
+                    read Nagios events, wildcards allowed
+  -o | --output filename 
+                    output Timeline events into filename
+  --both include    both host and service events (default)
+  --service-only    include only service events
+  --host-only       include only host events
+  --warning         include warning events
+  --critical        include critical events
+  --xml             XML output (default)
+  --json            JSON output
+  --verbose         (quite) verbose output
+  --configs filename(s)
+                    Record additional information for hosts and services
+                    from the Nagios configs specified. Descriptions found will
+                    be included in the Timeline output. (EXPERIMENTAL)
+
+
+References
+==========
+
+[1] Timeline examples, http://www.simile-widgets.org/timeline/examples/index.html
+
+[2] Nagios log file format, FAQ Database, Russell Scibetti, 26.9.2002:
+
+http://support.nagios.org/knowledgebase/faqs/index.php?option=com_content&view=article&id=52&catid=35&faq_id=66&expand=false&showdesc=true
+
+[3] Timeline Event Attributes and Data Formats, Timeline documentation wiki, http://code.google.com/p/simile-widgets/wiki/Timeline_EventSources
+
+[4] simplejson, Python Software Foundation, http://pypi.python.org/pypi/simplejson/

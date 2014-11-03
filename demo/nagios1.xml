@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<data last_timestamp="1256844672">
+  <event durationEvent="true" end="Oct 28 2009 22:08:12 GMT+0000" start="Oct 28 2009 22:07:12 GMT+0000" title="spe-2-drac.cs.helsinki.fi HTTPS">
+    plugin_start : CRITICAL - Cannot make SSL connection
+plugin_end : HTTP OK HTTP/1.1 200 OK - 10629 bytes in 5,336 seconds
+
+  </event>
+  <event durationEvent="true" end="Oct 29 2009 04:43:12 GMT+0000" start="Oct 29 2009 04:42:12 GMT+0000" title="fs-drac.cs.helsinki.fi HTTPS">
+    plugin_start : CRITICAL - Cannot make SSL connection
+plugin_end : HTTP OK HTTP/1.1 200 OK - 10630 bytes in 5,461 seconds
+
+  </event>
+  <event durationEvent="true" end="Oct 29 2009 08:23:32 GMT+0000" start="Oct 29 2009 08:20:02 GMT+0000" title="lc2-6.cs.helsinki.fi">
+    plugin_start : CRITICAL - Host Unreachable (128.214.11.86)
+plugin_end : PING OK - Packet loss = 0%, RTA = 0.67 ms
+
+  </event>
+  <event durationEvent="true" end="Oct 29 2009 08:27:02 GMT+0000" start="Oct 29 2009 08:22:12 GMT+0000" title="lc2-6.cs.helsinki.fi rpcbind-udp">
+    plugin_start : CRITICAL: RPC program portmapper  udp is not running
+plugin_end : OK: RPC program portmapper version 2 udp running
+
+  </event>
+  <event durationEvent="true" end="Oct 29 2009 08:27:12 GMT+0000" start="Oct 29 2009 08:22:12 GMT+0000" title="lc2-6.cs.helsinki.fi rpcbind-tcp">
+    plugin_start : CRITICAL: RPC program portmapper  tcp is not running
+plugin_end : OK: RPC program portmapper version 2 tcp running
+
+  </event>
+  <event durationEvent="true" end="Oct 29 2009 08:41:52 GMT+0000" start="Oct 29 2009 08:40:22 GMT+0000" title="svm-5.cs.helsinki.fi">
+    plugin_start : CRITICAL - Host Unreachable (128.214.11.45)
+plugin_end : PING OK - Packet loss = 0%, RTA = 1.31 ms
+
+  </event>
+  <event durationEvent="true" end="Oct 29 2009 08:46:02 GMT+0000" start="Oct 29 2009 08:40:12 GMT+0000" title="svm-5.cs.helsinki.fi rpcbind-tcp">
+    plugin_start : CRITICAL: RPC program portmapper  tcp is not running
+plugin_end : OK: RPC program portmapper version 2 tcp running
+
+  </event>
+  <event durationEvent="true" end="Oct 29 2009 08:46:12 GMT+0000" start="Oct 29 2009 08:40:12 GMT+0000" title="svm-5.cs.helsinki.fi SSH">
+    plugin_start : No route to host
+plugin_end : SSH OK - OpenSSH_4.7p1 Debian-8ubuntu1.2 (protocol 2.0)
+
+  </event>
+  <event durationEvent="true" end="Oct 29 2009 08:46:12 GMT+0000" start="Oct 29 2009 08:40:12 GMT+0000" title="svm-5.cs.helsinki.fi rpcbind-udp">
+    plugin_start : CRITICAL: RPC program portmapper  udp is not running
+plugin_end : OK: RPC program portmapper version 2 udp running
+
+  </event>
+  <event durationEvent="true" end="Oct 29 2009 09:28:02 GMT+0000" start="Oct 29 2009 09:11:02 GMT+0000" title="svm-5.cs.helsinki.fi rpcbind-tcp">
+    plugin_start : CRITICAL: RPC program portmapper  tcp is not running
+plugin_end : OK: RPC program portmapper version 2 tcp running
+
+  </event>
+  <event durationEvent="true" end="Oct 29 2009 09:28:12 GMT+0000" start="Oct 29 2009 09:11:12 GMT+0000" title="svm-5.cs.helsinki.fi rpcbind-udp">
+    plugin_start : CRITICAL: RPC program portmapper  udp is not running
+plugin_end : OK: RPC program portmapper version 2 udp running
+
+  </event>
+  <event durationEvent="true" end="Oct 29 2009 09:42:12 GMT+0000" start="Oct 29 2009 09:41:12 GMT+0000" title="vera-drac.cs.helsinki.fi HTTPS">
+    plugin_start : CRITICAL - Cannot make SSL connection
+plugin_end : HTTP OK HTTP/1.1 200 OK - 10629 bytes in 5,503 seconds
+
+  </event>
+  <event durationEvent="true" end="Oct 29 2009 10:24:02 GMT+0000" start="Oct 29 2009 10:23:22 GMT+0000" title="svm-5.cs.helsinki.fi rpcbind-tcp">
+    plugin_start : ERROR: No response from RPC server (alarm)
+plugin_end : OK: RPC program portmapper version 2 tcp running
+
+  </event>
+  <event durationEvent="true" end="Oct 29 2009 10:24:12 GMT+0000" start="Oct 29 2009 10:23:22 GMT+0000" title="svm-5.cs.helsinki.fi rpcbind-udp">
+    plugin_start : CRITICAL: RPC program portmapper  udp is not running
+plugin_end : OK: RPC program portmapper version 2 udp running
+
+  </event>
+  <event durationEvent="true" end="Oct 29 2009 11:07:02 GMT+0000" start="Oct 29 2009 08:35:02 GMT+0000" title="svm-5.cs.helsinki.fi http-proxy-tcp-8080">
+    plugin_start : Connection refused
+plugin_end : TCP OK - 0,001 second response time on port 8080
+
+  </event>
+  <event durationEvent="true" end="Oct 29 2009 11:07:02 GMT+0000" start="Oct 29 2009 08:35:02 GMT+0000" title="svm-5.cs.helsinki.fi HTTP">
+    plugin_start : Connection refused
+plugin_end : HTTP OK HTTP/1.1 200 OK - 1278 bytes in 0,005 seconds
+
+  </event>
+  <event durationEvent="true" end="Oct 29 2009 11:07:12 GMT+0000" start="Oct 29 2009 08:35:12 GMT+0000" title="svm-5.cs.helsinki.fi blackice-icecap-tcp-8081">
+    plugin_start : Connection refused
+plugin_end : TCP OK - 0,001 second response time on port 8081
+
+  </event>
+  <event durationEvent="true" end="Oct 29 2009 11:40:02 GMT+0000" start="Oct 29 2009 11:33:02 GMT+0000" title="melkki.cs.helsinki.fi SSH">
+    plugin_start : Server answer:
+plugin_end : SSH OK - OpenSSH_5.1p1 Debian-3ubuntu1 (protocol 2.0)
+
+  </event>
+  <event durationEvent="true" end="Oct 29 2009 12:48:12 GMT+0000" start="Oct 29 2009 12:47:12 GMT+0000" title="vera-drac.cs.helsinki.fi HTTPS">
+    plugin_start : CRITICAL - Cannot make SSL connection
+plugin_end : HTTP OK HTTP/1.1 200 OK - 10629 bytes in 5,415 seconds
+
+  </event>
+  <event durationEvent="true" end="Oct 29 2009 19:31:12 GMT+0000" start="Oct 29 2009 19:30:22 GMT+0000" title="switch-e.cs.helsinki.fi HTTP">
+    plugin_start : CRITICAL - Socket timeout after 10 seconds
+plugin_end : HTTP OK &lt;html&gt; - 1447 bytes in 0,058 seconds
+
+  </event>
+</data>
